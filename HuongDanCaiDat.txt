@@ -1,0 +1,12 @@
+# Môi trường cài đặt 
+- **python3.9 **
+- elasticsearch :
+    Hướng dẫn cài đặt:
+    B1: Truy cập vào page: https://www.elastic.co/downloads/elasticsearch -> Tải xuống bản cài cho Window
+    B2: Copy vào thư mục bất kỳ rồi giải nén
+
+- Install các thư viện cần thiết
+    B1: mở powershell -> thay đổi tới thư mục này (XX\LAW)
+    B2: pip install -r requirements.txt
+- Ngoài ra còn 1 số thư viện có thể cài thêm trong quá trình chạy
+

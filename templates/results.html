@@ -1,0 +1,59 @@
+{% extends "layout.html" %}
+{% from "group_QA.html" import group_QA %}
+{% from "answer.html" import answer %}
+
+{% block main %}
+<head>
+    <div class="w3-top">
+       <div class="w3-bar w3-black w3-card w3-left-align w3-large">
+           <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-blue" href="javascript:void(0);" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+           <a href="home" class="nav-button w3-bar-item w3-button w3-padding-large w3-white" style="text-decoration: none">Trang chủ</a>
+       </div>
+   </div>
+   <header class="w3-container w3-blue w3-center" style="padding: 80px 16px 30px 16px">
+       <h1 class="title">HỆ THỐNG HỎI ĐÁP PHÁP LUẬT VIỆT NAM</h1>
+   </header>
+</head>
+    <div class="container" style="padding-top: 20px">
+    <form method="POST" action="/">
+      <div class="form-group">
+        <h4>Hỏi đáp:</h4>
+        <textarea style="margin: 20px 0px 20px 0px" type="text" rows="1" cols="5" class="form-control"  name="rawtext" required="true",
+                  placeholder="Nhập câu hỏi..."></textarea>
+        <button type="submit" class="btn btn-info"><i class="fa fa-search"></i> Hỏi</button>
+
+      </div>
+    </form>
+  </div>
+  <div class="container" >
+    <div class="alert alert-success" role="alert" style="">
+      <p class="input1" style="color:  rgb(167, 11, 31); font-weight: bold; font-size: 20px;">Câu hỏi đã nhập: "{{raw_text}}"</p>
+      <p class="input2" style="color:  rgb(167, 11, 31); font-weight: bold; font-size: 20px; font-style: italic;">{{results[0][1]}}</p>
+      {% if results != null %}
+        {{answer(answer=results[0][2])}}
+      {% endif %}
+    </div>
+    <div class="container">
+      <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#relatedQA">Xem các câu hỏi và trả lời liên quan</button>
+      <div id="relatedQA" class="collapse">
+        <div class="alert alert-success" role="alert" style="">
+          <p class="input3" style="color:  rgb(167, 11, 31); font-weight: bold; font-size: 20px">Các câu hỏi liên quan: </p>
+            {% for para in results if para[0] != 1 %}
+                {{group_QA(data_id = para[0] - 1,
+                question = para[1],
+                answer = para[2])}}
+            {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+  <br />
+  <footer class="small text-center text-muted">
+      <div><strong>Họ tên, chức danh GVHD:</strong> TS. Nguyễn Trường Sơn – ThS. Nguyễn Thị Như Anh</div>
+      <div><strong>Sinh Viên:</strong></div>
+      <div>1753078 - Nguyễn Khôi Nguyên </div>
+      <div>1753087 - Nguyễn Tuấn Phùng </div>
+      <div>1753093 - Hồ Bùi Văn Quang </div>
+      <br><br>
+  </footer>
+{% endblock %}

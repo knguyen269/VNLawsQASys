@@ -1,0 +1,18 @@
+{% macro group_QA(data_id="", question="", answer="") %}
+<div class="container" style="margin-bottom:20px">
+  <div class="row">
+    <div class="col-sm-8 col-md-8">
+      <p style="font-weight:bold; font-size: 16px">{{data_id}}: {{question}}</p>
+    </div>
+    <div class="col-sm-3 col-md-3">
+      <button type="button" class="btn btn-info" data-toggle="collapse" 
+      data-target="#index_{{data_id}}" aria-expanded="false" 
+      aria-controls="index_{{data_id}}"> Xem câu trả Lời</button>
+    </div>
+    <div id="index_{{data_id}}" class="collapse" style="padding:0px 15px; white-space: pre-line; font-size: 16px">
+      {{answer}}
+    </div>
+  <br>
+</div> 
+</div>  
+{% endmacro %}
