@@ -1,0 +1,801 @@
+﻿id,question 1,question 2,label
+1,Có buộc phải lưu trữ sổ đăng ký cổ đông ở trụ sở công ty không?,Công ty cổ phần có bắt buộc có sổ đăng ký cổ đông không?,1
+2,Có buộc phải lưu trữ sổ đăng ký cổ đông ở trụ sở công ty không?,Sổ đăng ký cổ đông của công ty cổ phần phải có các nội dung nào?,0
+3,Có buộc phải lưu trữ sổ đăng ký cổ đông ở trụ sở công ty không?,Không lưu sổ đăng ký cổ đông công ty có bị phạt?,0
+4,Có buộc phải lưu trữ sổ đăng ký cổ đông ở trụ sở công ty không?,Biển hiệu công ty có bắt buộc phải được đặt tại trụ sở công ty không?,0
+5,Có buộc phải lưu trữ sổ đăng ký cổ đông ở trụ sở công ty không?,Có buộc phải lưu trữ sổ đăng ký cổ đông ở trụ sở công ty không?,1
+6,Có buộc phải lưu trữ sổ đăng ký cổ đông ở trụ sở công ty không?,Lưu giữ sổ đăng ký thành viên tại chi nhánh công ty được không?,0
+7,Ai quyết định chủ trương đầu tư về dự án đầu tư sử dụng vốn ODA?,Ai quyết định chủ trương đầu tư về dự án đầu tư sử dụng vốn ODA?,1
+8,Ai quyết định chủ trương đầu tư về dự án đầu tư sử dụng vốn ODA?," Quyết định chủ trương đầu tư chương trình, dự án sử dụng vốn ODA, vốn vay ưu đãi là gì?",0
+9," Quyết định chủ trương đầu tư chương trình, dự án sử dụng vốn ODA, vốn vay ưu đãi là gì?","Quyết định chủ trương đầu tư chương trình, dự án sử dụng vốn ODA, vốn vay ưu đãi",1
+10,"Trình tự, thủ tục quyết định chủ trương đầu tư dự án sử dụng vốn ODA trong đầu tư công quy định thế nào?","Trình tự, thủ tục quyết định chủ trương đầu tư chương trình, dự án sử dụng vốn ODA",0
+11,"Trình tự, thủ tục quyết định chủ trương đầu tư dự án sử dụng vốn ODA trong đầu tư công quy định thế nào?","Trình tự, thủ tục quyết định chủ trương đầu tư chương trình, dự án sử dụng vốn ODA và vốn vay ưu đãi của các nhà tài trợ nước ngoài",0
+12,Ai quyết định chủ trương đầu tư về dự án đầu tư sử dụng vốn ODA?,Cơ quan nào sẽ quyết định chủ trương đầu tư dự án?,0
+13,Ai quyết định chủ trương đầu tư về dự án đầu tư sử dụng vốn ODA?,Thẩm quyền quyết định chủ trương đầu tư dự án trong đầu tư công được quy định thế nào?,0
+14,Trách nhiệm tổ chức họp xét duyệt dự thảo báo cáo kiểm toán thuộc về ai?,Trách nhiệm tổ chức họp xét duyệt dự thảo báo cáo kiểm toán thuộc về ai?,1
+15,Trách nhiệm tổ chức họp xét duyệt dự thảo báo cáo kiểm toán thuộc về ai?,Dự thảo báo cáo kiểm toán hoàn thiện sau xét duyệt được gửi cho ai?,0
+16,Trách nhiệm tổ chức họp xét duyệt dự thảo báo cáo kiểm toán thuộc về ai?,Việc tổ chức hội nghị để công bố quyết định kiểm toán được quy định như thế nào?,0
+17,Trách nhiệm tổ chức họp xét duyệt dự thảo báo cáo kiểm toán thuộc về ai?,Xét duyệt dự thảo báo cáo kiểm toán của kiểm toán trưởng được quy định như thế nào?,0
+18,Công chức xã xin thôi việc gửi đơn đến cơ quan nào?,Công chức xã xin thôi việc gửi đơn đến cơ quan nào?,1
+19,Công chức xã xin thôi việc gửi đơn đến cơ quan nào?,Hỏi về công chức xin thôi việc,0
+20,Công chức xã xin thôi việc gửi đơn đến cơ quan nào?, Công chức bị xử lý kỷ luật được làm đơn xin thôi việc?,0
+21,Công chức xã xin thôi việc gửi đơn đến cơ quan nào?,Công chức cấp xã được hưởng chế độ thôi việc trong các trường hợp nào?,0
+22,Công chức xã xin thôi việc gửi đơn đến cơ quan nào?,ông chức xin nghỉ việc được hưởng trợ cấp thôi việc không?,0
+23,Chủ sở hữu chết có căn cứ để công ty giải thể không?,Chủ sở hữu chết có căn cứ để công ty giải thể không?,1
+24,Chủ sở hữu chết có căn cứ để công ty giải thể không?,Doanh nghiệp giải thể tài sản dùng bảo đảm cho nghĩa vụ của doanh nghiệp xử lý như thế nào?,0
+25,Chủ sở hữu chết có căn cứ để công ty giải thể không?,Hỏi về giải thể công ty,0
+26,Chủ sở hữu chết có căn cứ để công ty giải thể không?,Có phải trả con dấu khi giải thể doanh nghiệp không?,0
+27,Có phạt xe chở vật liệu quá tải cho công trình đang thi công?,Có phạt xe chở vật liệu quá tải cho công trình đang thi công?,1
+28,Có phạt xe chở vật liệu quá tải cho công trình đang thi công?,Không tuân thủ sử dụng vật liệu xây dựng trong thi công công trình xây dựng bị phạt bao nhiêu?,0
+29,Có phạt xe chở vật liệu quá tải cho công trình đang thi công?,Để vật liệu thi công ngoài phạm vi thi công bị xử lý ra sao?,0
+30,Có phạt xe chở vật liệu quá tải cho công trình đang thi công?,"Mức phạt nếu tài xế ô tô chở hàng siêu trường, siêu trọng đi không đúng tuyến đường trong giấy phép?",0
+31,Người lái xe có phải là người điều khiển giao thông hay không?,Người lái xe có phải là người điều khiển giao thông hay không?,1
+32,Người lái xe có phải là người điều khiển giao thông hay không?,Người điều khiển giao thông là ai?,1
+33,Người lái xe có phải là người điều khiển giao thông hay không?,Các phương tiện nào dùng để điều khiển giao thông đường bộ?,0
+34,Người lái xe có phải là người điều khiển giao thông hay không?,Các phương tiện nào dùng để điều khiển giao thông đường bộ?,0
+35,Người lái xe có phải là người điều khiển giao thông hay không?,Người điều khiển phương tiện giao thông đường bộ gồm những ai?,0
+36,Người điều khiển giao thông là ai?,Người điều khiển phương tiện giao thông đường bộ gồm những ai?,1
+37,Người lái xe tham gia giao thông cần đáp ứng những điều kiện gì?,Người lái xe cơ giới tham gia giao thông cần đáp ứng những điều kiện gì?,0
+38,Cơ sở kinh doanh dịch vụ PCCC gồm những gì?,Cơ sở kinh doanh dịch vụ PCCC gồm những gì?,1
+39,Cơ sở kinh doanh dịch vụ PCCC gồm những gì?,hồ sơ quản lý công tác PCCC của cơ sở,0
+40,Cơ sở kinh doanh dịch vụ PCCC gồm những gì?,Điều kiện an toàn về phòng cháy và chữa cháy đối với cơ sở được quy định như thế nào?,0
+41,Cơ sở kinh doanh dịch vụ PCCC gồm những gì?,Cơ sở kinh doanh dịch vụ Phòng cháy chữa cháy gồm những gì?,1
+42,Cơ sở kinh doanh dịch vụ PCCC gồm những gì?, Những yêu cầu phòng cháy chữa cháy đối với cơ sở,0
+43,Không ghi đầy đủ biển hiệu của trạm nạp khí vào phương tiện vận tải phạt bao nhiêu?,Không ghi đầy đủ biển hiệu của trạm nạp khí vào phương tiện vận tải phạt bao nhiêu?,1
+44,Không ghi đầy đủ biển hiệu của trạm nạp khí vào phương tiện vận tải phạt bao nhiêu?,Kinh doanh mua bán khí mà chai LPG không đủ điều kiện lưu thông bị phạt bao nhiêu?,0
+45,Kinh doanh mua bán khí mà chai LPG không đủ điều kiện lưu thông bị phạt bao nhiêu?,Đưa vào lưu thông chai LPG thuộc sở hữu không đáp ứng đủ điều kiện lưu thông bị phạt bao nhiêu?,1
+46,Kinh doanh mua bán khí mà chai LPG không đủ điều kiện lưu thông bị phạt bao nhiêu?,Đưa vào lưu thông chai LPG thuộc sở hữu không đáp ứng đủ điều kiện lưu thông bị phạt bao nhiêu tiền?,1
+47,Vẫn được mở quán karaoke trong khu vực nhà chung cư?,Vẫn được mở quán karaoke trong khu vực nhà chung cư?,1
+48,Vẫn được mở quán karaoke trong khu vực nhà chung cư?,Nhà hàng karaoke trong khu chung cư?,1
+49,Vẫn được mở quán karaoke trong khu vực nhà chung cư?,Có được phép kinh doanh tại chung cư không?,0
+50,Vẫn được mở quán karaoke trong khu vực nhà chung cư?,Có được mở quán bar ở tòa nhà chung cư hay không?,0
+51,Chung cư có được phép đăng ký hộ kinh doanh?,Có được phép kinh doanh tại chung cư không?,0
+52,Vẫn được mở quán karaoke trong khu vực nhà chung cư?,Cá nhân có được kinh doanh dịch vụ karaoke không?,0
+53,Cá nhân có được kinh doanh dịch vụ karaoke không?,Điều kiện kinh doanh karaoke?,0
+54,Có được phép kinh doanh tại chung cư không?,Có được sử dụng căn hộ chung cư để hoạt động kinh doanh hay không?,1
+55,Sự kiện nào thì công ty đại chúng buộc phải công bố thông tin bất thường trong lĩnh vực chứng khoán?,Sự kiện nào thì công ty đại chúng buộc phải công bố thông tin bất thường trong lĩnh vực chứng khoán?,1
+56,Sự kiện nào thì công ty đại chúng buộc phải công bố thông tin bất thường trong lĩnh vực chứng khoán?,Công ty đầu tư chứng khoán đại chúng công bố thông tin bất thường trong trường hợp nào?,0
+57,Công ty đầu tư chứng khoán đại chúng công bố thông tin bất thường trong trường hợp nào?,Công ty chứng khoán phải công bố thông tin bất thường trong những trường hợp nào?,1
+58,Sự kiện nào thì công ty đại chúng buộc phải công bố thông tin bất thường trong lĩnh vực chứng khoán?,Công ty đại chúng phải công bố thông tin bất thường trong trường hợp nào?,1
+59,Sự kiện nào thì công ty đại chúng buộc phải công bố thông tin bất thường trong lĩnh vực chứng khoán?,Công ty quản lý quỹ đầu tư chứng khoán công bố thông tin bất thường về quỹ đại chúng trong trường hợp nào?,0
+60,Sự kiện nào thì công ty đại chúng buộc phải công bố thông tin bất thường trong lĩnh vực chứng khoán?,Tổ chức niêm yết trái phiếu doanh nghiệp công bố thông tin bất thường trong trường hợp nào?,0
+61,Công ty đại chúng quy mô lớn là gì?,Công ty đại chúng quy mô lớn là gì?,1
+62,Công ty đại chúng quy mô lớn là gì?,Công ty đại chúng là gì?,0
+63,Công ty đại chúng quy mô lớn là gì?,Công ty nào được xem là công ty đại chúng?,0
+64,Công ty đại chúng quy mô lớn là gì?,Công ty đại chúng được tổ chức theo mô hình nào?,0
+65,Công ty đại chúng quy mô lớn là gì?,Công ty cổ phần có phải là công ty đại chúng không?,0
+66,Cách xác định ngày thực hiện giao dịch chứng khoán?,Cách xác định ngày thực hiện giao dịch chứng khoán?,1
+67,Cách xác định ngày thực hiện giao dịch chứng khoán?,Ngày công bố thông tin trên thị trường chứng khoán là ngày nào?,0
+68,Cách xác định ngày thực hiện giao dịch chứng khoán?,Giao dịch trong ngày trên thị trường chứng khoán được quy định như thế nào?,0
+69,Cách xác định ngày thực hiện giao dịch chứng khoán?,Giao dịch chứng khoán trong ngày là gì?,0
+70,Cách xác định ngày thực hiện giao dịch chứng khoán?,Ngày hoàn tất giao dịch chứng khoán được xác định như thế nào?,0
+71,Tổ thẩm định lựa chọn nhà thầu có bao nhiêu thành viên?,Tổ thẩm định lựa chọn nhà thầu có bao nhiêu thành viên?,1
+72,Tổ thẩm định lựa chọn nhà thầu có bao nhiêu thành viên?,Hội đồng thẩm định dự án PPP gồm những người nào?,0
+73,Tổ thẩm định lựa chọn nhà thầu có bao nhiêu thành viên?,Tổ chuyên gia đánh giá hồ sơ dự thầu được quy định như thế nào,0
+74,Tổ thẩm định lựa chọn nhà thầu có bao nhiêu thành viên?,Thành viên tham gia tổ thẩm định hồ sơ dự thầu cần phải đáp ứng những điều kiện gì?,0
+75,Xin cắt hộ nghèo gửi đơn đến cơ quan nào?,Xin cắt hộ nghèo gửi đơn đến cơ quan nào?,1
+76,Xin cắt hộ nghèo gửi đơn đến cơ quan nào?,Công chức xã xin thôi việc gửi đơn đến cơ quan nào?,0
+77,Xin cắt hộ nghèo gửi đơn đến cơ quan nào?,Hỏi về chính sách nhập khẩu hộ nghèo,0
+78,Xin cắt hộ nghèo gửi đơn đến cơ quan nào?,Xin giấy xác nhận gia đình có hoàn cảnh khó khăn bằng cách nào?,0
+79,Quy định về lệ phí thi sát hạch bằng lái xe A1,Phí sát hạch lái xe đối với giấy phép lái xe hạng A1,1
+80,Quy định về lệ phí thi sát hạch bằng lái xe A1,Quy định về lệ phí thi sát hạch bằng lái xe A1,1
+81,Quy định về lệ phí thi sát hạch bằng lái xe A2,Lệ phí thi bằng lái mô tô bằng A1,0
+82,Quy định về lệ phí thi sát hạch bằng lái xe A3,Điều kiện mở lớp đào tạo bằng lái xe A1,0
+83,Đi nghĩa vụ công an thì cần nộp những giấy tờ gi?,Đi nghĩa vụ công an thì cần nộp những giấy tờ gi?,1
+84,Đi nghĩa vụ công an thì cần nộp những giấy tờ gi?,Muốn đi nghĩa vụ công an thì cần có những giấy tờ gì?,1
+85,Đi nghĩa vụ công an thì cần nộp những giấy tờ gi?,Cần đáp ứng những điều kiện gì để được đi nghĩa vụ công an?,0
+86,Đi nghĩa vụ công an thì cần nộp những giấy tờ gi?,Đăng ký nghĩa vụ công an ở đâu?,0
+87,Đi nghĩa vụ công an thì cần nộp những giấy tờ gi?,Hồ sơ đi nghĩa vụ công an theo quy định hiện hành,0
+88,"Chi cục Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế có trách nhiệm gì?","Chi cục Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế có trách nhiệm gì?",1
+89,"Chi cục Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế có trách nhiệm gì?","Trách nhiệm của Chi cục Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế",1
+90,"Chi cục Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế có trách nhiệm gì?",Trách nhiệm của Cục Giám sát quản lý Hải quan trong quản lý doanh nghiệp kinh doanh cửa hàng miễn thuế,0
+91,"Chi cục Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế có trách nhiệm gì?",Trách nhiệm của Cục Công nghệ thông tin và thống kê Hải quan trong quản lý doanh nghiệp kinh doanh cửa hàng miễn thuế,0
+92,"Chi cục Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế có trách nhiệm gì?","Trách nhiệm của Cục Hải quan các tỉnh, thành phố có cửa hàng kinh doanh miễn thuế",0
+93,"Chi cục Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế có trách nhiệm gì?",Trách nhiệm của cơ quan hải quan trong việc kiểm tra hồ sơ xét miễn thuế do người nộp thuế khai và xử lý là gì?,0
+94,"Chi cục Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế có trách nhiệm gì?",Trách nhiệm của cơ quan hải quan đối với Danh mục miễn thuế nhập khẩu,0
+95,24 tuổi có được tham gia dự tuyển vào trường quân đội hay không?,Người 22 tuổi có thể đăng ký thi khối ngành quân đội hay không?,0
+96,24 tuổi có được tham gia dự tuyển vào trường quân đội hay không?,24 tuổi có được tham gia dự tuyển vào trường quân đội hay không?,1
+97,Có được đỗ ô tô tại đường một chiều hay không?,Có được đỗ ô tô tại đường một chiều hay không?,1
+98,Có được đỗ ô tô tại đường một chiều hay không?,"Có được dừng xe, đỗ xe bên trái đường một chiều hay không?",0
+99,Có được đỗ ô tô tại đường một chiều hay không?,"Có được dừng xe, đỗ xe nơi đường giao nhau hay không?",0
+100,Có được đỗ ô tô tại đường một chiều hay không?,"Có được dừng xe, đỗ xe trên song song với một xe khác đang dừng, đỗ hay không?",0
+101,Có bắt buộc xuất trình bản chính giấy đăng ký xe khi đi đăng kiểm?,Có bắt buộc xuất trình bản chính giấy đăng ký xe khi đi đăng kiểm?,1
+102,Có bắt buộc xuất trình bản chính giấy đăng ký xe khi đi đăng kiểm?,Giấy đăng ký xe sao y bản chính tham gia giao thông có được coi là hợp lệ?,0
+103, Tổ chuyên môn trong Trường Mầm non được quy định nhưTổ chuyên môn tại trường mầm non được quy định như thế nào? thế nào?,,1
+104,Thành phần hội đồng trường mẫu giáo bao gồm những ai?,"Thành phần Hội đồng trường của nhà trẻ, trường mẫu giáo, trường mầm non dân lập",0
+105,Ảnh dán trên giấy khám sức khỏe nền trắng hay nền xanh?,Hồ sơ khám sức khỏe gồm những giấy tờ gì?,0
+106,Hồ sơ khám sức khỏe gồm những giấy tờ gì?,Đi khám sức khỏe phải mang giấy tờ gì?,1
+107,Hồ sơ khám sức khỏe gồm những giấy tờ gì?,Thủ tục khám sức khỏe,0
+108,Giảng viên đại học thì phải có bằng thạc sĩ?,Có bằng thạc sĩ đã đủ điều kiện làm giáo viên THPT?,0
+109,Giảng viên đại học thì phải có bằng thạc sĩ?,Bằng thạc sỹ có được làm giảng viên đại học?,1
+110,Giảng viên đại học thì phải có bằng thạc sĩ?,Thạc sĩ có được hướng dẫn luận văn thạc sĩ hay không?,0
+111,Nguyên tắc tham gia giao thông khi thấy tín hiệu của các xe được quyền ưu tiên,Trách nhiệm của người tham gia giao thông đường bộ khi gặp xe được quyền ưu tiên là gì?,0
+112,Nguyên tắc tham gia giao thông khi thấy tín hiệu của các xe được quyền ưu tiên,Trách nhiệm của người tham gia giao thông đường bộ khi gặp xe được quyền ưu tiên là gì?,0
+113,Nguyên tắc tham gia giao thông khi thấy tín hiệu của các xe được quyền ưu tiên,Thứ tự đường ưu tiên khi tham gia giao thông trên đường bộ được quy định thế nào?,0
+114,Thứ tự ưu tiên của hiệu lệnh giao thông,Tín hiệu của xe được quyền ưu tiên trong giao thông đường bộ,0
+115,Tốc độ cho phép đối với xe cứu thương khi đi làm nhiệm vụ là bao nhiêu?,Thế nào là xe cứu thương đang thực hiện nhiệm vụ cấp cứu?,0
+116,Tốc độ cho phép đối với xe cứu thương khi đi làm nhiệm vụ là bao nhiêu?,Tín hiệu của xe cứu thương đang thực hiện nhiệm vụ cấp cứu là gì?,0
+117,Tốc độ cho phép đối với xe cứu thương khi đi làm nhiệm vụ là bao nhiêu?,Tốc độ cho phép đối với xe cứu thương khi đi làm nhiệm vụ là bao nhiêu?,1
+118,Xe ô tô cứu thương được sử dụng cho những mục đích gì?,Xe ô tô cứu thương được sử dụng như thế nào?,1
+119,Có phải công khai kế hoạch đào tạo của trên trang thông tin điện tử của nhà trường không?,Các thông tin khác cần công khai trên trang thông tin điện tử của trường đại học gồm thông tin gì?,0
+120,Các thông tin khác cần công khai trên trang thông tin điện tử của trường đại học gồm thông tin gì?, Thông tin công khai trên cổng thông tin điện tử đối với trường đại học gồm thông tin nào?,0
+121,Có phải công khai kế hoạch đào tạo của trên trang thông tin điện tử của nhà trường không?,Nguyên tắc cung cấp thông tin lên trang thông tin điện tử của trường đại học,0
+122,Có phải công khai kế hoạch đào tạo của trên trang thông tin điện tử của nhà trường không?,"Công khai trên trang thông tin điện tử của trường đại học các thông tin về niên giám, thống kê giáo dục gồm những gì?",0
+123,Một học phần có tối đa mấy tín chỉ?,Số tín chỉ tối thiểu một kỳ học là bao nhiêu?,0
+124,Một học phần có tối đa mấy tín chỉ?,Một học phần có tối đa mấy tín chỉ?,1
+125, Sinh viên có được học cùng lúc hai chương trình không?,Điều kiện và thời gian tối đa để sinh viên học cùng một lúc hai chương trình như thế nào?,0
+126, Sinh viên có được học cùng lúc hai chương trình không?,"Học cùng lúc hai chương trình đối với sinh viên đại học, cao đẳng được quy định như thế nào?",1
+127,Thời gian đào tạo trình độ thạc sĩ tối đa là mấy năm?,Thời gian đào tạo đại học là bao lâu?,0
+128,Bị sẩy thai có phải đóng đủ 6 tháng bảo hiểm mới được hưởng chế độ không?,Đóng liên tục đủ 6 tháng bảo hiểm xã hội mới được hưởng chế độ thai sản?,1
+129,"Đóng BHXH 6 tháng, có được hưởng chế độ thai sản?",Đóng bảo hiểm vừa đủ 6 tháng có được hưởng chế độ thai sản?,1
+130,Đóng liên tục đủ 6 tháng bảo hiểm xã hội mới được hưởng chế độ thai sản?,Đóng bảo hiểm vừa đủ 6 tháng có được hưởng chế độ thai sản?,1
+131,Đóng đủ 6 tháng BHXH liên tục thì mới được hưởng chế độ thai sản?,Bị sẩy thai có phải đóng đủ 6 tháng bảo hiểm mới được hưởng chế độ không?,1
+132,Trong mọi trường hợp CSGT đều phải chào điều lệnh khi dừng xe người vi phạm giao thông?,CSGT có được kiểm tra hành chính?,0
+133,Nhiệm vụ chỉ huy chữa cháy theo quy định mới,Người chỉ huy chữa cháy theo quy định mới,0
+134,Nhiệm vụ chỉ huy chữa cháy theo quy định mới,Nhiệm vụ của người chỉ huy chữa cháy trong công tác chữa cháy được quy định như thế nào?,0
+135,Nhiệm vụ chỉ huy chữa cháy theo quy định mới,Nhiệm vụ của cán bộ tham gia chữa cháy trong công tác chữa cháy được quy định như thế nào?,0
+136,Nhiệm vụ chỉ huy chữa cháy theo quy định mới,Nhiệm vụ của người chỉ huy khu vực chữa cháy trong công tác chữa cháy được quy định như thế nào?,0
+137,Quy định về quy trình giải quyết thủ tục hành chính trên Hệ thống thông tin một cửa điện tử của BHXH,Quy định về trách nhiệm của các cơ quan BHXH tham gia Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử,0
+138,Quy định về trách nhiệm của các cơ quan BHXH tham gia Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử,Việc cập nhật thông tin về thủ tục hành chính vào Hệ thống thông tin một cửa điện tử của bảo hiểm xã hội được quy định như thế nào?,0
+139,Hiến máu lần đầu có được khen thưởng hay không?,Hiến máu lần thứ 5 có được UBND tỉnh khen thưởng hay không?,0
+140,Hiến máu lần thứ 3 có được khen thưởng hay không?,Hiến máu lần đầu có được khen thưởng hay không?,0
+141,Hiến máu lần đầu có được khen thưởng hay không?,Hiến máu lần thứ 20 có được tặng bằng khen?,0
+142,Trẻ em 4 tuổi được đăng ký Bệnh viện Nhi nơi tạm trú hay không?,Trẻ em dưới 6 tuổi được đăng ký KCB ban đầu tại đâu?,0
+143,Trường hợp nào được xin phiếu lý lịch tư pháp ở trung tâm lý lịch tư pháp quốc gia?, Thẩm quyền cấp Phiếu lý lịch tư pháp của Trung tâm lý lịch tư pháp quốc gia,0
+144,Trường hợp nào được xin phiếu lý lịch tư pháp ở trung tâm lý lịch tư pháp quốc gia?,Ai có quyền yêu cầu cấp phiếu lý lịch tư pháp?,0
+145,Trường hợp nào được xin phiếu lý lịch tư pháp ở trung tâm lý lịch tư pháp quốc gia?,Trường hợp nào được xin phiếu lý lịch tư pháp ở trung tâm lý lịch tư pháp quốc gia?,1
+146,Đánh bạn trong lớp có bị hạnh kiểm yếu hay không?,Bị ghi trong sổ đầu bài có được hạnh kiểm tốt hay không?,0
+147,Có được lên lớp không khi hạnh kiểm xếp loại yếu?,Có được lên lớp khi đạt học lực loại yếu?,0
+148,Đánh bạn trong lớp có bị hạnh kiểm yếu hay không?,Học sinh sử dụng tài liệu trong giờ kiểm tra có bị hạ hạnh kiểm?,0
+149,Được lưu ban tối đa bao nhiêu lần?,Học sinh được phép lưu ban tối đa bao nhiêu lần?,1
+150,Được giữ chức vụ hiệu trưởng nhà trường tối đa bao nhiêu năm?,iệu trưởng trường đại học được làm tối đa bao nhiêu nhiệm kỳ?,0
+151,Hiệu trưởng trường trung học phổ thông được làm tối đa bao nhiêu nhiệm kỳ?,Hiệu trưởng trường trung học phổ thông được làm tối đa bao nhiêu nhiệm kỳ?,1
+152,Hiệu trưởng trường trung học phổ thông được làm tối đa bao nhiêu nhiệm kỳ?,Hiệu trưởng trường trung học cơ sở được làm tối đa bao nhiêu nhiệm kỳ?,0
+153,Hiệu trưởng trường trung học phổ thông được làm tối đa bao nhiêu nhiệm kỳ?,Hiệu trưởng của một trường THPT được làm việc mấy nhiệm kỳ ở một cơ sở Giáo dục?,1
+154,Khoảng cách an toàn về điện được quy định thế nào?,Khoảng cách an toàn phóng điện theo cấp điện áp được quy định như thế nào?,0
+155,Có cần phải lưu giữ đơn xin gia nhập hợp tác xã của các thành viên?,Hợp tác xã bắt buộc phải có sổ đăng ký thành viên?,0
+156,Thành viên hợp tác xã có bắt buộc phải góp vốn?,Trở thành thành viên của hợp tác xã phải đáp ứng điều kiện gì?,0
+157,Quy định về thông tin về dịch vụ công trực tuyến của Cổng Dịch vụ công của bảo hiểm xã hội,Quy định về việc sử dụng tài khoản nộp hồ sơ trực tuyến trên Cổng Dịch vụ công của bảo hiểm xã hội,0
+158,Yêu cầu của thông tin cung cấp trên Cổng Dịch vụ công của bảo hiểm xã hội,Trách nhiệm cung cấp dịch vụ công trực tuyến trên Cổng Thông tin điện tử Bảo hiểm xã hội,1
+159,Quy định về thông tin về dịch vụ công trực tuyến của Cổng Dịch vụ công của bảo hiểm xã hội,Việc cung cấp thông tin các dịch vụ công trực tuyến trên Cổng Thông tin điện tử Bảo hiểm xã hội Việt Nam được quy định thế nào?,0
+160,Rào chắn an toàn điện tạm thời được quy định thế nào?,Việc bảo vệ an toàn trạm điện được quy định như thế nào?,0
+161,Rào chắn an toàn điện tạm thời được quy định thế nào?,Rào chắn an toàn điện tạm thời được quy định thế nào?,1
+162,Không thể giải quyết cho nghỉ phép thì được thanh toán bằng tiền?,Không nghỉ hết ngày phép có được thanh toán bằng tiền?,1
+163,Không thể giải quyết cho nghỉ phép thì được thanh toán bằng tiền?,Thôi việc mà chưa nghỉ phép thì được thanh toán bằng tiền,0
+164,Không thể giải quyết cho nghỉ phép thì được thanh toán bằng tiền?,"Chưa nghỉ hết phép, được thanh toán thế nào?",1
+165,Không thể giải quyết cho nghỉ phép thì được thanh toán bằng tiền?,Chưa nghỉ hết phép trong năm có được trả tiền không?,1
+166,Không thể giải quyết cho nghỉ phép thì được thanh toán bằng tiền?,Có đòi lại tiền lương khi nghỉ việc đột xuất được không?,0
+167,"Quyền, nghĩa vụ của người tham gia bảo hiểm y tế được quy định như thế nào?","Quyền, trách nhiệm của tổ chức, cá nhân đóng bảo hiểm y tế được quy định như thế nào?",1
+168,"Quyền, nghĩa vụ của người tham gia bảo hiểm y tế được quy định như thế nào?","Quyền, trách nhiệm của tổ chức bảo hiểm y tế được quy định như thế nào?",0
+169,"Quyền, trách nhiệm của tổ chức bảo hiểm y tế được quy định như thế nào?","Quyền, trách nhiệm của cơ sở khám bệnh, chữa bệnh bảo hiểm y tế được quy định như thế nào?",0
+170,"Tổ chức, cá nhân đóng bảo hiểm y tế có trách nhiệm gì?","Mức trách nhiệm bảo hiểm trong khám, chữa bệnh quy định thế nào?",0
+171,Nhiệm vụ theo chức danh của nhân viên hàng không được quy định như thế nào?,Nhân viên hàng không gồm những chức danh nào?,0
+172,Chức danh nhân viên hàng không bao gồm những chức danh nào?,Nhân viên hàng không gồm những chức danh nào?,1
+173,Nhân viên kiểm soát an ninh hàng không được quy định như thế nào?,Nhân viên hàng không gồm những chức danh nào?,0
+174,Việc tiếp nhận yêu cầu định giá tài sản trong tố tụng hình sự được quy định như thế nào?,Hồ sơ định giá tài sản trong tố tụng hình sự được quy định như thế nào?,0
+175,Tiến hành định giá tài sản trong tố tụng hình sự như thế nào?,Hồ sơ định giá tài sản trong tố tụng hình sự được quy định như thế nào?,0
+176,Phong đẳng cấp trọng tài không đúng quy định có bị xử phạt không?,Phong đẳng cấp vận động viên không đúng quy định có bị xử phạt không?,0
+177,Phong đẳng cấp huấn luyện viên không đúng quy định có bị xử phạt không?,Phong đẳng cấp vận động viên không đúng quy định có bị xử phạt không?,0
+178,Việc đào tạo huấn luyện nghiệp vụ nhân viên hàng không được quy định ra sao?,"Giáo viên của cơ sở đào tạo, huấn luyện nghiệp vụ nhân viên hàng không được quy định như thế nào?",0
+179,Việc đào tạo huấn luyện nghiệp vụ nhân viên hàng không được quy định ra sao?,"Chương trình đào tạo, huấn luyện nghiệp vụ nhân viên hàng không bao gồm những chương trình nào?",0
+180,"Chương trình đào tạo, huấn luyện nghiệp vụ hàng không gồm những loại nào?","Chương trình đào tạo, huấn luyện nghiệp vụ nhân viên hàng không bao gồm những chương trình nào?",1
+181,Hội đồng sát hạch nhân viên hàng không được quy định như thế nào?,Hội đồng sát hạch nhân viên hàng không được quy định như thế nào?,1
+182,Hội đồng sát hạch nhân viên hàng không được quy định như thế nào?,Nhiệm vụ của Hội đồng sát hạch nhân viên hàng không được quy định như thế nào?,0
+183,Nhiệm vụ của Hội đồng sát hạch nhân viên hàng không được quy định như thế nào?,Tiêu chuẩn sát hạch viên nhân viên hàng không được quy định như thế nào?,0
+184,"Nơi tạm giữ tang vật, phương tiện bị tạm giữ, tịch thu theo thủ tục hành chính","Bố trí nơi tạm giữ tang vật, phương tiện bị tạm giữ, tịch thu theo thủ tục hành chính",1
+185,"Điều kiện nơi tạm giữ tang vật, phương tiện bị tạm giữ, tịch thu theo thủ tục hành chính","Bố trí nơi tạm giữ tang vật, phương tiện bị tạm giữ, tịch thu theo thủ tục hành chính",0
+186,"Thủ tục tạm giữ tang vật, phương tiện vi phạm hành chính","Quy định của pháp luật về việc tiếp nhận tang vật, phương tiện bị tạm giữ, tịch thu theo thủ tục hành chính",0
+187,Nghĩa vụ của người được bảo hiểm hàng hải,Nghĩa vụ của người được bảo hiểm hàng hải khi xảy ra tổn thất,1
+188,Quy định về Đối tượng bảo hiểm hàng hải,Quy định về Bảo hiểm bao trong hàng hải,0
+189,Quy định về Bảo hiểm bao trong hàng hải,Quy định về Bảo hiểm trùng trong hàng hải,0
+190,Quy định về Hợp đồng bảo hiểm hàng hải,Quy định về Bảo hiểm trùng trong hàng hải,0
+191,Doanh nghiệp thu phí dịch vụ xuất khẩu lao động không đúng quy định bị xử phạt bao nhiêu?,Công ty thu tiền dịch vụ của người lao động đi làm việc ở nước ngoài không đúng quy định bị xử lý như thế nào?,0
+192,"Có di chúc của bố me, muốn chuyển tên sổ đỏ cần thủ tục gì?",Khi làm di chúc có cần phải có sổ đỏ không?,0
+193,Thủ tục sang tên sổ đỏ theo di chúc ?,"Có di chúc của bố me, muốn chuyển tên sổ đỏ cần thủ tục gì?",1
+194,Thanh niên của hộ nghèo là gì?,Hộ nghèo là gì?,0
+195,Thế nào được coi là hộ nghèo?,Hộ nghèo là gì?,1
+196,Hộ nghèo thuộc chính sách bảo trợ xã hội là gì?,Hộ nghèo là gì?,0
+197,Thanh niên của hộ nghèo là gì?,Người thành niên là gì?,0
+198,Bảo chi séc được quy định như thế nào?,Bảo chi séc quy định như thế nào?,1
+199,Bảo chi séc được quy định như thế nào?,Bảo lãnh séc được quy định như thế nào?,0
+200,Ký phát séc được quy định như thế nào?,Bảo lãnh séc được quy định như thế nào?,0
+201,Cán bộ Hội có được hưởng phụ cấp công vụ?,Về chế độ phụ cấp công vụ đối với người công tác tại các Hội,0
+202,Cán bộ Hội có được hưởng phụ cấp công vụ?,Đối tượng nào được hưởng phụ cấp công vụ?,0
+203,Cán bộ Hội có được hưởng phụ cấp công vụ?,Viên chức có được hưởng phụ cấp công vụ không?,0
+204,Cán bộ Hội có được hưởng phụ cấp công vụ?, Công chức tập sự có được hưởng phụ cấp công vụ?,0
+205,Phụ cấp công vụ có được xem là phụ cấp lương?, Công chức tập sự có được hưởng phụ cấp công vụ?,0
+206,Tài sản được chia như thế nào?,Chia tài sản chung như thế nào?,1
+207,Chia tài sản chung như thế nào?,Chia tài sản thuộc hình thức sở hữu chung như thế nào?,1
+208,Chia tài sản chung như thế nào?,Chia tài sản thừa kế như thế nào đây?,0
+209,Tài sản được chia như thế nào?,Hỏi về vấn đề chia tài sản,1
+210,Chia tài sản thừa kế như thế nào đây?,Phân chia tài sản thừa kế chung như thế nào là hợp lý?,0
+211,Hỏi về đường điện đi qua không gian đất của gia đình,Xin cho hỏi về cột điện và dây điện đi qua phần đất,0
+212,Hỏi về đường điện đi qua không gian đất của gia đình,Đường điện nằm trong đất của dân xử lí thế nào?,0
+213,Hợp đồng kinh tế có được chứng thực không?,Tính hợp pháp của Hợp đồng kinh tế,0
+214,Điều chỉnh lại thông tin trên giấy tờ gốc phải làm như thế nào?,Giấy khai sinh và một số giấy tờ cá nhân khác có sai sót thì chỉnh sửa như thế nào?,0
+215,Cho vay với hình thức mua bán có hợp pháp không ?,Cho vay tiền bằng giấy viết tay có hợp pháp hay không?,0
+216,Cho mượn tiền có cần công chứng không,Cho vay có thế chấp sổ đổ giữa cá nhân với cá nhân được công chứng không?,0
+217,Người mua xe gây tai nạn thì người bán có chịu trách nhiệm?,Có phải liên đới bồi thường xe đã bán gây tai nạn?,0
+218,Người mua xe gây tai nạn thì người bán có chịu trách nhiệm?,"Bán xe nhưng không sang tên, gây tai nạn người bán có liên quan?",0
+219,Giao xe cho người khác gây tai nạn có phải chịu trách nhiệm không?,Ủy quyền cho người khác sử dụng ô tô gây tai nạn thì ai chịu?,1
+220,Giao xe cho người khác gây tai nạn có phải chịu trách nhiệm không?,Lái xe gây tai nạn chết người thì chủ xe chịu trách nhiệm gì?,0
+221,Khám sức khỏe có được hưởng BHYT?,Khám sức khỏe có được chi trả BHYT không?,1
+222,"Người tham gia BHYT đi khám bệnh, chữa bệnh được quỹ BHYT chi trả các chi phí nào?",Mua thiết bị y tế có được BHYT chi trả?,0
+223,Việc xét khen thưởng cống hiến thực hiện như thế nào?, Khen thưởng quá trình cống hiến được quy định như thế nào?,1
+224,"Các loại hình khen thưởng cho tập thể, cá nhân được quy định như thế nào?","Các loại hình khen thưởng cho tập thể, cá nhân được quy định như thế nào?",0
+225,Việc xét khen thưởng cống hiến thực hiện như thế nào?,"Tính thời gian khen thành tích cống hiến như thế nào, mức khen ra sao?",0
+226,Mức tiền thưởng các loại Bằng khen của tập thể được quy định như thế nào?,Mức tiền thưởng các loại Giấy khen của tập thể được quy định như thế nào?,0
+227,"Trong gia đình, người vợ bị xúc phạm, phải giải quyết thế nào?",Chồng xúc phạm vợ có kiện được không?,0
+228,Chồng có hành vi bạo lực gia đình phải làm thế nào?,Phải làm gì khi chồng bạo lực gia đình,1
+229,Giành quyền nuôi con khi chồng có hành vi bạo lực?,"Có hành vi bạo lực, người chồng có thể mất quyền nuôi con?",1
+230,Hướng dẫn thanh toán hợp đồng,Hướng dẫn thanh toán hợp đồng thi công xây dựng,0
+231,Hướng dẫn thanh toán hợp đồng,Hướng dẫn thanh toán khối lượng ngoài hợp đồng,0
+232,Cơ sở thanh toán hợp đồng xây dựng,Hướng dẫn thanh toán hợp đồng thi công xây dựng,0
+233,Nghĩa vụ và trách nhiệm của Giám đốc khi ký kết hợp đồng,Trách nhiệm của Giám đốc khi giao việc bằng emai hoặc văn bản,0
+234,Việc uỷ quyền giao kết hợp đồng lao động được quy định như thế nào?,Ủy quyền giao kết hợp đồng lao động,0
+235,Lập di chúc sớm có được không?,Lập lại di chúc có được không?,0
+236,Lập di chúc sớm có được không?,Có được lập di chúc hay không?,0
+237,Lập di chúc sớm có được không?,Lập di chúc như thế nào,0
+238,Có được lập di chúc hay không?,Có thể hủy di chúc đã lập hay không?,0
+239,Vay lãi không có khả năng trả nợ bị phạt thế nào?,Phải trả lãi như thế nào khi không trả nợ đúng hạn?,0
+240,Vỡ nợ không còn khả năng chi trả se bị toà án xử như thế nào?,Vỡ nợ không có khả năng trả nợ sẽ bị xử lý như thế nào?,1
+241,Vay lãi không có khả năng trả nợ bị phạt thế nào?, Vay tiền không có khả năng trả sẽ bị xử lý như thế nào?,1
+242,Vay tiền quá hạn không chịu trả thì chịu hình phạt như thế nào?,Không trả nợ đúng hạn có phải trả thêm tiền lãi không?,0
+243,Có nên mua xe máy cũ hay không?,Thủ tục mua xe máy cũ thế nào?,0
+244,"Mua bán xe máy cũ, cần làm thủ tục gì?",Thủ tục mua xe máy cũ thế nào?,1
+245,"Mua bán xe máy cũ, cần làm thủ tục gì?",Mua xe máy cũa thì có phải làm thủ tục gì?,0
+246,Mua lại xe máy cũ khác tỉnh có bắt buộc cấp đổi biển số không?,Mua xe máy cũ không chính chủ có vi phạm pháp luật không?,0
+247,Điều kiện bảo lưu phụ cấp ưu đãi nhà giáo,Quy định về chế độ bảo lưu chế độ phụ cấp ưu đãi đối với nhà giáo,1
+248,"Chế độ phụ cấp, trợ cấp, ưu đãi đối với các đối tượng nhà giáo",Quy định về chế độ bảo lưu chế độ phụ cấp ưu đãi đối với nhà giáo,0
+249,Quy định về mức phụ cấp ưu đãi đối với nhà giáo,Quy định về chế độ bảo lưu chế độ phụ cấp ưu đãi đối với nhà giáo,0
+250,Thời gian nhà giáo được hưởng bảo lưu phụ cấp ưu đãi,Quy định về chế độ bảo lưu chế độ phụ cấp ưu đãi đối với nhà giáo,0
+251,Cách lấy lại tài sản khi bị người khác chiếm đoạt?,Muốn lấy lại số tài sản bị chiếm đoạt thì phải làm như thế nào?,1
+252,Cách lấy lại tài sản khi bị người khác chiếm đoạt?,Làm sao để lấy lại tài sản bị trộm cắp?,0
+253,Cách lấy lại tài sản khi bị người khác chiếm đoạt?,Thủ tục đòi người khác trả lại tài sản chiếm giữ,1
+254,Cách lấy lại tài sản khi bị người khác chiếm đoạt?, Làm sao để lấy lại tài sản,0
+255,Bị trộm cắp tài sản có lấy lại được không?,Làm sao để lấy lại tài sản bị trộm cắp?,0
+256,Quyền lợi của HSSV khi khám chữa bệnh BHYT,Quyền lợi của học sinh tham gia BHYT,1
+257,Quyền lợi của HSSV khi khám chữa bệnh BHYT,Trách nhiệm và quyền lợi khi tham gia BHYT HSSV,0
+258,Quyền lợi của HSSV khi khám chữa bệnh BHYT,Quyền lợi của HSSV khi tham gia bảo hiểm y tế,1
+259,"Mức hưởng BHYT của học sinh, sinh viên được quy định như thế nào?",Mức hưởng BHYT với đối tượng sinh viên,1
+260,Quyền lợi của người tham gia BHYT,Quyền lợi người tham gia BHYT,1
+261,Xin hỏi về tội lừa đảo chiếm đoạt tài sản,Hỏi về tội danh lừa đảo chiếm đoạt tài sản,1
+262,Xin hỏi về tội lừa đảo chiếm đoạt tài sản,Xin hỏi về việc lừa đảo chiếm đoạt tài sản.,1
+263,Xin hỏi về tội lừa đảo chiếm đoạt tài sản,Hỏi về đồng phạm trong tội lừa đảo chiếm đoạt tài sản,0
+264,Xin hỏi về tội lừa đảo chiếm đoạt tài sản,Mức án đối với tội lừa đảo chiếm đoạt tài sản?,0
+265,Xin hỏi về tội lừa đảo chiếm đoạt tài sản,Xin hỏi luật sư về lừa đảo chiếm đoạt tài sản ,1
+266,Khoan giếng sang nhà hàng xóm thì xử lý thế nào?,Giải quyết tranh chấp lối đi với hàng xóm như thế nào?,0
+267,Khoan giếng sang nhà hàng xóm thì xử lý thế nào?,Khoan giếng ngoài diện tích đất thổ cư có được không?,0
+268,Khoan giếng sang nhà hàng xóm thì xử lý thế nào?,Có được sử dụng phần đất của hàng xóm để đặt dàn giáo?,0
+269,Hỏi về việc lấn đất,Hỏi vê trích lục đất,0
+270,Hỏi về việc lấn đất,Xin hỏi về tranh chấp đất đai,0
+271,Hỏi về quyền sử đụng đất,Hỏi về việc quyền sử dụng đất,1
+272,Hỏi về việc lấn đất,Hỏi về quyền sử đụng đất,0
+273,Con nuôi có được hưởng thừa kế của cha mẹ nuôi không?,Con nuôi có được hưởng thừa kế của cha mẹ nuôi hay không?,1
+274,Con nuôi có được hưởng thừa kế của cha mẹ nuôi không?,Con nuôi có được nhận thừa kế từ cha mẹ nuôi?,1
+275,Con nuôi có được hưởng thừa kế của cha mẹ nuôi không?,Con nuôi có được thừa kế tài sản của cha mẹ nuôi không?,1
+276,Con nuôi có được hưởng thừa kế của cha mẹ nuôi không?,Con nuôi có được hưởng thừa kế bằng con ruột không?,0
+277,Con nuôi có được hưởng thừa kế của cha mẹ nuôi không?,Con nuôi có được nhận thừa kế không?,1
+278,Con nuôi có được hưởng thừa kế của cha mẹ nuôi không?,Con nuôi có quyền thừa kế không?,1
+279,Mua đất chỉ có hồ sơ công chứng của phường có được công nhận không?,"Mua đất bằng giấy tay năm 2000, nhưng không có xác nhận của địa phương có được công nhận không?",0
+280,Trường hợp nào thì người đang hưởng trợ cấp thất nghiệp bị chấm dứt hưởng trợ cấp thất nghiệp ?,Người lao động đang hưởng trợ cấp thất nghiệp bị chấm dứt hưởng trợ cấp thất nghiệp trong trường hợp nào?,1
+281,Trường hợp nào thì người đang hưởng trợ cấp thất nghiệp bị chấm dứt hưởng trợ cấp thất nghiệp ?,trường hợp nào bị chấm dứt hưởng trợ cấp thất nghiệp ?,1
+282,Trường hợp nào thì người đang hưởng trợ cấp thất nghiệp bị chấm dứt hưởng trợ cấp thất nghiệp ?,Người lao động bị chấm dứt hưởng trợ cấp thất nghiệp khi nào?,1
+283,Trường hợp nào thì người đang hưởng trợ cấp thất nghiệp bị chấm dứt hưởng trợ cấp thất nghiệp ?,Các trường hợp bị chấm dứt hưởng trợ cấp thất nghiệp,1
+284,Trường hợp nào thì người đang hưởng trợ cấp thất nghiệp bị chấm dứt hưởng trợ cấp thất nghiệp ?,Các trường hợp chấm dứt hưởng trợ cấp thất nghiệp,1
+285,Trường hợp nào thì người đang hưởng trợ cấp thất nghiệp bị chấm dứt hưởng trợ cấp thất nghiệp ?,Thủ tục chấm dứt hưởng trợ cấp thất nghiệp cho người lao động,0
+286,Trường hợp nào thì người đang hưởng trợ cấp thất nghiệp bị chấm dứt hưởng trợ cấp thất nghiệp ?,Chấm dứt hưởng trợ cấp thất nghiệp khi nào?,1
+287,Trường hợp nào thì người đang hưởng trợ cấp thất nghiệp bị chấm dứt hưởng trợ cấp thất nghiệp ?,13 trường hợp chấm dứt hưởng trợ cấp thất nghiệp,1
+288,Trường hợp nào thì người đang hưởng trợ cấp thất nghiệp bị chấm dứt hưởng trợ cấp thất nghiệp ?,Trường hợp nào bị dừng trợ cấp thất nghiệp?,1
+289,Trợ cấp thôi việc tính thế nào?,Chi trả trợ cấp thôi việc như thế nào?,0
+290,Trợ cấp thôi việc tính thế nào?,Cách tính trợ cấp thôi việc như thế nào?,1
+291,Trợ cấp thôi việc tính thế nào?, Trợ cấp thôi việc do ai chi trả?,0
+292,Trợ cấp thôi việc tính thế nào?,Tiền trợ cấp thôi việc cách tính như thế nào,1
+293,Xin cho em hỏi về thủ tục li hôn,Hỏi về thủ tục ly hôn,1
+294,Xin cho em hỏi về thủ tục li hôn,Xin tư vấn về vấn đề ly hôn,0
+295,Hỏi về việc ra quyết định ly hôn,Hỏi về thủ tục ly hôn,0
+296,Hỏi về việc ra quyết định ly hôn,Hỏi về thủ tục đơn phương ly hôn,0
+297,Hỏi về việc không xuất hóa đơn xuất khẩu ngay khi xuất bán hàng hóa,Xuất hàng hóa ra nước ngoài có phải lập hóa đơn xuất bán không?,0
+298,Nghỉ hưu trước tuổi được không?,Có được xin nghỉ hưu trước tuổi?,1
+299,Nghỉ hưu trước tuổi được không?,Có được nghỉ hưu trước tuổi 60 không?,1
+300,Nghỉ hưu trước tuổi được không?,Xin về hưu sớm để hưởng lương hưu được không?,0
+301,Nghỉ hưu trước tuổi được không?, Nghỉ hưu trước tuổi phải đáp ứng các điều kiện nào?,0
+302,Nghỉ hưu trước tuổi được không?,Hỏi về chế độ về hưu trước tuổi,0
+303,Nghỉ hưu trước tuổi được không?,Có được hưởng chế độ hưu trí khi về hưu trước tuổi?,0
+304,Nghỉ hưu trước tuổi được không?,Hỏi về nghỉ hưu trước tuổi đối với nữ,0
+305,Việc quy hoạch bến xe khách được quy định như thế nào?,Việc phân loại bến xe khách được quy định như thế nào?,0
+306,Cá nhân nước ngoài có quyền bảo lãnh cho người Việt Nam vay tiền?,Cá nhân nước ngoài có quyền bảo lãnh cho người Việt Nam vay tiền?,0
+307,Tài khoản cho vay ra nước ngoài là gì?,Tài khoản thực hiện bảo lãnh cho vay ra nước ngoài là gì?,0
+308,Nghĩa vụ bảo lãnh khoản vay nước ngoài được thực hiện như thế nào?,Tài khoản thực hiện bảo lãnh cho vay ra nước ngoài là gì?,0
+309,Sổ đỏ chung có xin được giấy phép xây dựng?, Xây nhà có phải xin giấy phép xây dựng hay không?,0
+310,Sổ đỏ chung có xin được giấy phép xây dựng?,Chưa có sổ đỏ có xin cấp giấy phép xây dựng được không?,0
+311,Vay tiền không trả?, Vay tiền mà không trả,1
+312,Mượn tiền không trả thì xử lý như thế nào?,Mượn tiền không có khả năng trả thì sao?,0
+313,Vay tiền không trả?,Vay tiền không trả có bị xử lý?,1
+314,Hợp đồng mua bán đất đai không công chứng có bị vô hiệu không?,Hợp đồng mua bán quyền sử dụng đất không được công chứng có vô hiệu?,1
+315,Hợp đồng mua bán đất đai không công chứng có bị vô hiệu không?,Hợp đồng mua bán đất không công chứng có giá trị pháp lý không?,0
+316,Hợp đồng mua bán đất đai không công chứng có bị vô hiệu không?,Hợp đồng mua bán nhà không công chứng sẽ vô hiệu?,0
+317,Hỏi về thời gian định giá tan vật của vụ an ăn cắp tài sản,Thời gian điều tra vụ án lừa đảo chiếm đoạt tài sản là bao nhiêu lâu?,0
+318,Hỏi về thời gian định giá tan vật của vụ an ăn cắp tài sản,Thời hạn định giá tài sản trong tố tụng hình sự là bao lâu?,0
+319,Hỏi về thời gian định giá tan vật của vụ an ăn cắp tài sản,"Thời hạn xử lý tang vật, phương tiện vi phạm hành chính bị tịch thu là bao lâu?",0
+320,Giám đốc chiếm đoạt tiền công ty xử lý thế nào?,"Giám đốc, kế toán trưởng chiếm đoạt tài sản công ty",0
+321, Thủ tục và cách xử lý nhân viên chiếm đoạt công ty,"Giám đốc, kế toán trưởng chiếm đoạt tài sản công ty",0
+322,Quan hệ tình dục trước 18 tuổi,Quan hệ tình dục với trẻ e tuổi từ 16-18,1
+323,Quan hệ tình dục trước 18 tuổi,Quan hệ tình dục với người 18 tuổi dẫn đến có thai,0
+324,Quan hệ tình dục trước 18 tuổi,"Quan hệ tình dục với người chưa đủ 18 tuổi, có phạm tội?",1
+325,Quan hệ tình dục trước 18 tuổi,Quan hệ tình dục với người trên 16 tuổi có vi phạm pháp luật?,0
+326,Quan hệ tình dục trước 18 tuổi,"Quan hệ tình dục dưới 18 tuổi, xử lý ra sao?",1
+327,Góp vốn vào công ty bằng xe ôtô có nộp thuế không?,Góp vốn thành lập doanh nghiệp bằng ô tô được không?,0
+328,Góp vốn vào công ty bằng xe ôtô có nộp thuế không?,Góp vốn vào công ty bằng tài sản là xe ô tô thì có phải làm thủ tục sang tên không?,0
+329,Góp vốn vào công ty bằng xe ôtô có nộp thuế không?,Góp vốn vào công ty có phải nộp lệ phí trước bạ?,0
+330,Thủ tục thẩm định thiết kế cơ sở,"Trình tự thẩm định dự án, thẩm định thiết kế cơ sở đầu tư xây dựng",0
+331,Thủ tục thẩm định thiết kế cơ sở,Nội dung thẩm định thiết kế cơ sở trong thẩm định dự án đầu tư xây dựng được quy định như thế nào?,0
+332,Thủ tục thẩm định thiết kế cơ sở,Thủ tục thẩm định thay đổi thiết kế cơ sở,0
+333,Hướng dẫn tính đơn giá dự thầu,Hướng dẫn áp dụng định mức chi phí thiết kế,0
+334,Chi phí chuyển viện,Viện phí,1
+335,Chi phí chuyển viện,Hỏi về chuyển viện,0
+336,Chi phí chuyển viện,Chi phí tài trợ,0
+337,Mất CMND thì nhận được tiền BHTN không,Mất sổ BHXH có được hưởng trợ cấp thất nghiệp?,0
+338,Mất tờ rời BHXH thì phải làm gì?,Mất sổ BHXH có được hưởng trợ cấp thất nghiệp?,0
+339,Chế độ ốm đau dài ngày trùng với chế độ thai sản?,Nghỉ ốm đau dài ngày sau đó sinh con có được hưởng chế độ thai sản?,0
+340,Nghỉ thai sản có được hưởng chế độ ốm đau hay không?, Có được hưởng chế độ ốm đau khi bị ốm trong thời gian nghỉ phép,1
+341,Nghỉ thai sản có được hưởng chế độ ốm đau hay không?,"Nghỉ hưởng chế độ ốm đau dài ngày có phải đóng BHXH, BHYT không?",0
+342,Bị ốm trong thời gian nghỉ phép có được hưởng chế độ ốm đau không?,"Nghỉ hưởng chế độ ốm đau dài ngày có phải đóng BHXH, BHYT không?",0
+343,Xin hỏi về trợ cấp BHXH 1 lần cho giáo viên,Phụ cấp ưu đãi giáo viên có được tính vào lương để đóng BHXH không?,0
+344,"Đối tượng và điều kiện miễn, giảm tiền thuê nhà ở","Đối tượng được miễn, giảm tiền thuê nhà ở cũ thuộc sở hữu nhà nước",0
+345,"Các trường hợp được miễn, giảm tiền sử dụng đất, tiền thuê đất",Trường hợp nào được miễn giảm tiền thuê và sử dụng đất?,1
+346,"Các trường hợp được miễn, giảm tiền sử dụng đất, tiền thuê đất","Việc miễn, giảm tiền sử dụng đất, tiền thuê đất trong những trường hợp nào?",1
+347,Trường hợp nào được miễn giảm tiền thuê và sử dụng đất?,"Việc miễn, giảm tiền sử dụng đất, tiền thuê đất trong những trường hợp nào?",1
+348,"Trường hợp nào được miễn giảm tiền thuê, sử dụng đất?",Trường hợp nào được miễn giảm tiền thuê và sử dụng đất?,1
+349,Thủ tục đơn phương ly hôn khi một bên không đồng ý?,Làm sao để được ly hôn khi một bên không đồng ý?,0
+350,Thủ tục đơn phương ly hôn khi một bên không đồng ý?,Thủ tục đơn phương ly hôn?,1
+351,Hỏi về thủ tục đơn phương ly hôn,Thủ tục đơn phương ly hôn?,1
+352,Thủ tục đơn phương ly hôn khi một bên không đồng ý?,Hỏi về thủ tục đơn phương ly hôn,1
+353,Hỏi về thủ tục ly hôn đơn phương,Hỏi về thủ tục đơn phương ly hôn,1
+354,Hỏi về việc ly hôn đơn phương,Hỏi về thủ tục ly hôn đơn phương,1
+355,Mẫu đơn xin đơn phương ly hôn?,Hỏi về thủ tục ly hôn đơn phương,0
+356,Chính sách với quân nhân tham gia kháng chiến,"Chế độ đối với quân nhân, công nhân viên quốc phòng tham gia kháng chiến",0
+357,"Chế độ đối với quân nhân, công nhân viên quốc phòng tham gia kháng chiến",Chế độ trợ cấp với quân nhân tham gia kháng chiến,0
+358,Chính sách với quân nhân tham gia kháng chiến,Chế độ đối với người tham gia kháng chiến,0
+359,Chế độ với người tham gia kháng chiến,Chế độ đối với người tham gia kháng chiến,1
+360,Chế độ với người tham gia kháng chiến,Chế độ đối với quân nhân tham gia kháng chiến chống Mỹ,0
+361,Doanh nghiệp kinh doanh vật liệu xây dựng khi nào chịu sự quản lý của Sở xây dựng?,Trách nhiệm của cơ quan có thẩm quyền cấp giấy phép xây dựng được quy định như thế nào?,0
+362,Xây nhà không phép bị phạt bao nhiêu tiền?,Xây nhà sai phép bị phạt bao nhiêu tiền?,1
+363,Phạt về xây dựng không phép,Xây nhà sai phép bị phạt bao nhiêu tiền?,1
+364,Mức phạt xây dựng nhà sai phép,Xây nhà sai phép bị phạt bao nhiêu tiền?,1
+365,"Xây dựng không phép, phạt bao nhiêu?",Xây nhà sai phép bị phạt bao nhiêu tiền?,1
+366,Xử phạt xây dựng nhà ở không đúng với giấy phép,Xây nhà sai phép bị phạt bao nhiêu tiền?,0
+367,Truy thu thẻ bhyt như thế nào,Thu tiền thẻ bhyt,0
+368,Chứng chỉ hành nghề được cấp ở nước ngoài có giá trị sử dụng để đăng ký kinh doanh tại Việt Nam hay không?,Điều kiện để cấp chứng chỉ hành nghề tại Việt Nam đối với người nước ngoài,0
+369,Chứng chỉ hành nghề được cấp ở nước ngoài có giá trị sử dụng để đăng ký kinh doanh tại Việt Nam hay không?,Điều kiện để có thể được cấp Giấy phép thành lập Văn phòng đại diện cho thương nhân nước ngoài là gì?,0
+370,Điều kiện cấp chứng chỉ hành nghề cho người nước ngoài,Điều kiện để cấp chứng chỉ hành nghề tại Việt Nam đối với người nước ngoài,1
+371,Điều kiện cấp chứng chỉ hành nghề cho người nước ngoài,Người nước ngoài xin giấy phép hoạt động tại Việt Nam cần giấy tờ gì?,0
+372,Người nước ngoài có được cấp chứng chỉ hành nghề Luật sư không?,Người nước ngoài xin giấy phép hoạt động tại Việt Nam cần giấy tờ gì?,0
+373,Chia thừa kế nhà khi di chúc bị thất lạc?, Chia thừa kế khi di chúc bị mất được tìm thấy?,0
+374,Hỏi về việc tranh chấp tài sản thừa kế ?,Hỏi về việc tranh chấp tài sản thừa kế?,1
+375,"Chứng nhận của UBND cấp có thẩm quyền, mức độ như thế nào là hợp pháp",hẩm quyền chứng thực của UBND cấp xã,0
+376,Quyền lợi người lao động,Quyền lợi của người lao động,1
+377,Quyền lợi người lao động,Quyền lợi của người lao động trong thời gian đình công,0
+378,Quyền lợi người lao động,Xin giải đáp quyền lợi của người lao động,1
+379,Quyền lợi người lao động,Tư vấn đòi quyền lợi cho người lao động,0
+380,Quyền lợi người lao động,Trả lương cho người lao động,0
+381,Hồ sơ hưởng chế độ ốm đau theo quy định hiện hành,"Hồ sơ hưởng chế độ ốm đau khi điều trị ngoại trú bao gồm những giấy tờ, tài liệu nào?",0
+382,Hỏi về việc yêu cầu thực hiện hợp đồng mua bán,Chủ thể của hợp đồng mua bán hàng hóa?,0
+383,Hỏi về việc yêu cầu thực hiện hợp đồng mua bán,Xin hỏi về hợp đồng cầm đồ,0
+384,Thắc mắc về thủ tục mua bán căn hộ chung cư.,Hỏi về thủ tục mua bán căn hộ chung cư,1
+385,Thắc mắc về thủ tục mua bán căn hộ chung cư.,Thủ tục mua bán căn hộ chung cư,1
+386,Thắc mắc về thủ tục mua bán căn hộ chung cư.,Xin hỏi về thủ tục mua nhà chung cư,1
+387,Mua chung cư cần giấy tờ gì?,Xin hỏi về thủ tục mua nhà chung cư,0
+388,Thắc mắc về thủ tục mua bán căn hộ chung cư.,Thủ tục giấy ủy quyền căn hộ chung cư,0
+389,Thắc mắc về thủ tục mua bán căn hộ chung cư.,Xin tư vấn về thủ tục bán nhà,0
+390,hế độ thai sản khi nghỉ việc.,Chế độ thai sản khi nghỉ việc,1
+391,Thời gian nghỉ thai sản,Thời gian hưởng chế độ thai sản,0
+392,Quá trình kiểm tra và quản lý chất lượng của các lọai vật liệu,"Trình tự, thủ tục và nội dung kiểm tra chất lượng hàng hóa nhóm 2 trong quá trình sử dụng",0
+393,"Trình tự, thủ tục kiểm tra kỹ thuật an toàn hóa chất","Trình tự, thủ tục và nội dung kiểm tra chất lượng hàng hóa nhóm 2 trong quá trình sử dụng",0
+394,Hỏi về việc vay tiền có thế chấp sổ nhà?,Hình thức của giấy vay nợ có thế chấp ''sổ đỏ''?,0
+395,Thời gian cấp sổ đỏ căn hộ chung cư,Thủ tục làm sổ đỏ cho nhà chung cư gồm những gì?,0
+396,Thủ tục sang tên sổ hồng nhà chung cư,Thủ tục làm sổ đỏ cho nhà chung cư gồm những gì?,0
+397,Thủ tục cấp hộ chiếu đối với công dân Việt Nam,Thủ tục xin cấp hộ chiếu Việt Nam đối với người nước ngoài,0
+398,Thủ tục cấp hộ chiếu đối với công dân Việt Nam,Thủ tục xin cấp thị thực về Việt Nam,0
+399,Thủ tục cấp hộ chiếu đối với công dân Việt Nam,Thủ tục cấp hộ chiếu cho trẻ em,0
+400,Thủ tục cấp hộ chiếu đối với công dân Việt Nam,Thủ tục cấp lại hộ chiếu Việt Nam,0
+401,Các hành vi bị cấm trong hoạt động điện lực và sử dụng điện,11 hành vi bị cấm trong hoạt động điện lực và sử dụng điện,1
+402,Các hành vi bị cấm trong hoạt động điện lực và sử dụng điện,Các hành vi vi phạm về thiết bị điện và công trình điện lực,0
+403,Các hành vi bị cấm trong hoạt động điện lực và sử dụng điện,Các hành vi bị coi là vi phạm hợp đồng mua bán điện,0
+404,Các hành vi bị cấm trong hoạt động điện lực và sử dụng điện," Các hành vi bị nghiêm cấm trong phòng cháy, chữa cháy theo quy định hiện hành",0
+405,Việc lập Quy hoạch phát triển điện hạt nhân được quy định như thế nào?,"Việc quy hoạch phát triển, ứng dụng năng lượng nguyên tử được thực hiện như thế nào?",0
+406,Việc lập Quy hoạch phát triển điện hạt nhân được quy định như thế nào?,Quy hoạch phát triển điện lực quốc gia gồm những nội dung gì?,0
+407,Quy hoạch phát triển điện hạt nhân,"Việc quy hoạch phát triển, ứng dụng năng lượng nguyên tử được thực hiện như thế nào?",1
+408,"Đối tượng, phạm vi khai thác và sử dụng Cơ sở dữ liệu quốc gia về khoa học và công nghệ bao gồm những ai?",Các hình thức khai thác và sử dụng Cơ sở dữ liệu quốc gia về khoa học và công nghệ bao gồm những gì?,0
+409,Cơ sở dữ liệu quốc gia về khoa học và công nghệ bao gồm những gì?,Cơ sở dữ liệu quốc gia về khoa học và công nghệ là gì?,0
+410,Cơ sở dữ liệu quốc gia về khoa học và công nghệ bao gồm những gì?,Cơ sở dữ liệu quốc gia về khoa học và công nghệ bao gồm các cơ sở dữ liệu thành phần nào?,1
+411,Cơ sở dữ liệu quốc gia về khoa học và công nghệ bao gồm những gì?,Cơ sở dữ liệu thành phần trong cơ sở dữ liệu quốc gia về khoa học công nghệ là gì?,0
+412,Dùng tay sử dụng điện thoại di động khi đang điều khiển xe máy,Dùng tay sử dụng điện thoại di động khi đang điều khiển xe ô tô.,0
+413,Dùng tay sử dụng điện thoại di động khi đang điều khiển xe máy,Mức phạt cho người sử dụng điện thoại khi đang điều khiển xe máy?,1
+414,Dùng tay sử dụng điện thoại di động khi đang điều khiển xe máy,Hành vi nghe điện thoại di động khi đang đi xe mô tô có bị xử phạt không?,0
+415, Mức phạt khi điều khiển xe ô tô đang chạy mà dùng tay sử dụng điện thoại là bao nhiêu?,Dùng tay sử dụng điện thoại di động khi đang điều khiển xe ô tô.,1
+416,Dùng tay sử dụng điện thoại di động khi đang điều khiển xe máy,Chạy xe sử dụng điện thoại di động có bị tạm giữ xe không?,0
+417,Nhập khẩu phân bón cho doanh nghiệp không xin phép bị phạt thế nào?,Nhập khẩu phân bón để nghiên cứu mà không xin phép bị phạt thế nào?,0
+418,Nhập khẩu phân bón để thử nghiệm mà không xin phép bị phạt thế nào?,Nhập khẩu phân bón để nghiên cứu mà không xin phép bị phạt thế nào?,0
+419,Nhập khẩu phân bón làm hàng mẫu mà không xin phép bị phạt thế nào?,Nhập khẩu phân bón để nghiên cứu mà không xin phép bị phạt thế nào?,0
+420,"Tự ý tẩy xóa nội dung trong Giấy phép sản xuất, gia công phân bón bị phạt thế nào?",Tự ý tẩy xóa Giấy phép nhập khẩu phân bón bị phạt thế nào?,0
+421,Nguyên tắc hoạt động của thị trường điện lực,Hoạt động giao dịch trên thị trường điện lực,0
+422,Mua bán điện trên thị trường điện lực,Đối tượng tham gia thị trường điện lực,0
+423,Điều hành giao dịch trên thị trường điện lực,Mua bán điện trên thị trường điện lực,0
+424,Nguyên tắc hoạt động của thị trường điện lực,Nguyên tắc xác định chi phí vận hành hệ thống điện và thị trường điện,0
+425,"Các nội dung về đào tạo, huấn luyện và thực tập an ninh bến cảng theo Bộ luật ISPS","Quy định về đào tạo, huấn luyện và thực tập an ninh tàu theo Bộ luật ISPS",0
+426,Nội dung đánh giá an ninh bến cảng theo Bộ luật ISPS,"Quy định về đào tạo, huấn luyện và thực tập an ninh tàu theo Bộ luật ISPS",0
+427,Làm sai lệch kết quả phân tích kiểm nghiệm chất lượng phân bón bị phạt thế nào?,Công bố sai kết quả phân tích kiểm nghiệm chất lượng phân bón bị phạt bao nhiêu?,1
+428,Cung cấp kết quả sai so với kết quả khảo nghiệm phân bón bị phạt thế nào?,,1
+429,Cung cấp kết quả sai so với kết quả khảo nghiệm phân bón bị phạt thế nào?,"Phân tích, thử nghiệm chất lượng phân bón khi chưa được chỉ định bị phạt thế nào?",0
+430,Cung cấp kết quả sai so với kết quả khảo nghiệm phân bón bị phạt thế nào?,Làm sai lệch kết quả kiểm nghiệm đối với mẫu thuốc đã kiểm nghiệm bị phạt bao nhiêu?,0
+431,Cung cấp kết quả sai so với kết quả khảo nghiệm phân bón bị phạt thế nào?,Cung cấp kết quả kiểm nghiệm thực phẩm sai sự thật bị phạt thế nào?,0
+432,Làm sai lệch kết quả phân tích kiểm nghiệm chất lượng phân bón bị phạt thế nào?,Khảo nghiệm phân bón không đúng với nội dung đã đăng ký bị phạt thế nào?,0
+433,Chưa có chứng chỉ đào tạo về lấy mẫu phân bón đã thực hiện việc lấy mẫu phân bón bị phạt thế nào?,Mức phạt tiền đối với trường hợp không có Giấy chứng nhận tập huấn lấy mẫu phân bón đã thực hiện lấy mẫu,1
+434,Chưa có chứng chỉ đào tạo về lấy mẫu phân bón đã thực hiện việc lấy mẫu phân bón bị phạt thế nào?, Không thực hiện thử nghiệm đánh giá chất lượng phân bón trước khi đưa phân bón ra kinh doanh bị phạt thế nào?,0
+435,Chưa có chứng chỉ đào tạo về lấy mẫu phân bón đã thực hiện việc lấy mẫu phân bón bị phạt thế nào?,"Phân tích, thử nghiệm chất lượng phân bón khi chưa được chỉ định bị phạt thế nào?",0
+436,Mức phạt tiền đối với trường hợp không có Chứng chỉ đào tạo người lấy mẫu phân bón đã thực hiện lấy mẫu,Mức phạt tiền đối với trường hợp không có Giấy chứng nhận tập huấn lấy mẫu phân bón đã thực hiện lấy mẫu,0
+437,Ai được ra lệnh cấm xuất cảnh?,Trường hợp nào bị cấm xuất cảnh?,0
+438,Khi nào bị cấm xuất cảnh?,Trường hợp nào bị cấm xuất cảnh?,1
+439,Trường hợp bị cấm xuất nhập cảnh?,Trường hợp nào bị cấm xuất cảnh?,0
+440,Cơ quan nào có thẩm quyền cấm đi khỏi nơi cư trú?,Cơ quan nào có thẩm quyền cấm đi khỏi nơi cư trú ?,1
+441,Chính phủ có vai trò như thế nào trong việc tiến hành lệnh tổng động viên,Chính Phủ có trách nhiệm gì trong việc quản lý nhà nước về huy động lực lượng dự bị động viên?,0
+442,Chính phủ có vai trò như thế nào trong việc tiến hành lệnh tổng động viên,Cơ quan thuộc Chính phủ có trách nhiệm gì trong việc quản lý nhà nước về huy động lực lượng dự bị động viên?,0
+443,Chính phủ có vai trò như thế nào trong việc tiến hành lệnh tổng động viên,Hội đồng nhân dân các cấp có trách nhiệm gì trong việc quản lý nhà nước về huy động lực lượng dự bị động viên?,0
+444,Không gửi đề cương khảo nghiệm phân bón bị phạt thế nào?,Khảo nghiệm phân bón không đúng với nội dung đã đăng ký bị phạt thế nào?,0
+445,Không gửi đề cương khảo nghiệm phân bón bị phạt thế nào?,Không thực hiện thử nghiệm đánh giá chất lượng phân bón trước khi đưa phân bón ra kinh doanh bị phạt thế nào?,0
+446,Khi nào là bán dâm?,Căn cứ xác định mua bán dâm?,1
+447,"Làm sao xác định có mua, bán dâm?",Căn cứ để xác định mua bán dâm?,1
+448,Căn cứ xác định mua bán dâm?,Căn cứ để xác định mua bán dâm?,1
+449,Cách xác định hành vi mua bán dâm,Căn cứ để xác định mua bán dâm?,1
+450,Cơ sở xác định việc mua bán dâm,Căn cứ để xác định mua bán dâm?,1
+451,"Mua, bán dâm bị xử lý như thế nào?",Hành vi bán dâm sẽ bị xử phạt thế nào?,0
+452,Quyền hạn của Chính phủ như thế nào trong vấn đề chứng thực chữ số," Thuê bao quản lý, sử dụng dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ có trách nhiệm gì?",0
+453,Không báo cáo định kỳ về hoạt động vật liệu nổ bị phạt thế nào?,Không thực hiện thử định kỳ vật liệu nổ công nghiệp bị phạt thế nào?,0
+454,Không báo cáo định kỳ về hoạt động vật liệu nổ bị phạt thế nào?,Báo cáo sai lệch về hoạt động vật liệu nổ công nghiệp bị phạt thế nào?,0
+455,Không báo cáo định kỳ về hoạt động vật liệu nổ bị phạt thế nào?,"Không lưu trữ hồ sơ, tài liệu hoạt động vật liệu nổ công nghiệp bị phạt thế nào?",0
+456,Chính sách của Nhà nước đối với hoạt động chữ thập đỏ,Chính sách của Nhà nước quy định đối với hoạt động chữ thập đỏ,1
+457,Chính sách của Nhà nước đối với hoạt động chữ thập đỏ,Quản lý nhà nước về hoạt động chữ thập đỏ,0
+458,Cơ quan quản lý nhà nước về hoạt động chữ thập đỏ,Quản lý nhà nước về hoạt động chữ thập đỏ,0
+459,Nguồn lực cho hoạt động chữ thập đỏ,Hoạt động chữ thập đỏ,0
+460,Nguồn lực cho hoạt động chữ thập đỏ,Nguyên tắc hoạt động chữ thập đỏ,0
+461,Hoạt động chữ thập đỏ được hiểu như thế nào?,Hoạt động chữ thập đỏ,1
+462,Chính phủ đóng vai trò như thế nào trong việc thực hiện điều ước quốc tế,Cơ quan đề xuất có trách nhiệm gì trong việc thực hiện điều ước quốc tế,0
+463,Ai chịu trách nhiệm tổ chức thực hiện điều ước quốc tế?,Cơ quan đề xuất có trách nhiệm gì trong việc thực hiện điều ước quốc tế,0
+464,Điều kiện của Ngân hàng giám sát quỹ hưu trí,Chế độ báo cáo của ngân hàng giám sát quỹ hưu trí,0
+465,Chế độ báo cáo của ngân hàng giám sát quỹ hưu trí,Điều kiện của Tổ chức lưu ký tài sản quỹ hưu trí.,0
+466,"Trình tự xem xét, thông qua dự thảo nghị quyết của Hội đồng nhân dân cấp xã được quy định thế nào?","Trình tự xem xét, thông qua dự thảo nghị quyết của Hội đồng nhân dân cấp huyện được quy định thế nào?",0
+467,"Trình tự xem xét, thông qua dự thảo nghị quyết của Hội đồng nhân dân cấp xã được quy định thế nào?","Trình tự xem xét, thông qua dự thảo quyết định của Ủy ban nhân dân cấp xã được quy định thế nào?",0
+468,"Trình tự xem xét, thông qua dự thảo nghị quyết của Hội đồng nhân dân cấp xã được quy định thế nào?","Trình tự xem xét, thông qua dự thảo nghị quyết của Hội đồng nhân dân cấp tỉnh được quy định thế nào?",0
+469,"Trình tự xem xét, thông qua dự thảo nghị quyết của Hội đồng nhân dân cấp huyện được quy định thế nào?","Trình tự xem xét, thông qua dự thảo quyết định của Ủy ban nhân dân cấp huyện được quy định thế nào?",0
+470,"Quyền của doanh nghiệp, cá nhân kinh doanh dịch vụ môi giới bất động sản được quy định như thế nào?",Quyền của doanh nghiệp kinh doanh dịch vụ sàn giao dịch bất động sản được quy định như thế nào?,1
+471,"Quyền của doanh nghiệp, cá nhân kinh doanh dịch vụ môi giới bất động sản được quy định như thế nào?","Nghĩa vụ của doanh nghiệp, cá nhân kinh doanh dịch vụ môi giới bất động sản được quy định như thế nào?",0
+472,"Quyền của doanh nghiệp, cá nhân kinh doanh dịch vụ môi giới bất động sản được quy định như thế nào?","Điều kiện của tổ chức, cá nhân kinh doanh dịch vụ môi giới bất động sản",0
+473,Nội dung chính của phương án xử lý ô nhiễm là gì?,Lập lại phương án xử lý ô nhiễm trong các trường hợp nào?,0
+474,Ủy ban Thẩm phán Tòa án quân sự quân khu và tương đương bao gồm những ai?,Ủy ban Thẩm phán Tòa án quân sự trung ương bao gồm những ai?,0
+475, Nhiệm vụ và quyền hạn của Ủy ban Thẩm phán Tòa án quân sự quân khu và tương đương,Nhiệm vụ và quyền hạn Ủy ban Thẩm phán Tòa án quân sự trung ương,0
+476, Nhiệm vụ và quyền hạn của Ủy ban Thẩm phán Tòa án quân sự quân khu và tương đương, Ủy ban Thẩm phán Tòa án nhân dân cấp cao bao gồm những ai?,0
+477, Nhiệm vụ và quyền hạn của Ủy ban Thẩm phán Tòa án quân sự quân khu và tương đương,"Ủy ban Thẩm phán Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương bao gồm những ai?",0
+478,Các bước của quy trình kiểm toán được quy định như thế nào?,Quy trình kiểm toán của Kiểm toán nhà nước có mấy bước?,1
+479,Các bước của quy trình kiểm toán được quy định như thế nào?,Việc kiểm toán được tiến hành như thế nào?,0
+480,Các bước của quy trình kiểm toán được quy định như thế nào?,Hồ sơ kiểm toán được quy định như thế nào?,0
+481,Việc kiểm toán được tiến hành như thế nào?,Việc hủy hồ sơ kiểm toán được quy định như thế nào?,0
+482,Tiêu chuẩn Công chức thanh tra giao thông hàng không là gì?,Tiêu chuẩn của Giám sát viên an ninh hàng không như thế nào?,0
+483,Tiêu chuẩn Công chức thanh tra giao thông hàng không là gì?,Tiêu chuẩn chuyên môn thanh tra viên ngành Giao thông vận tải là gì?,0
+484,Mẫu thẻ công chức thanh tra giao thông được quy định như thế nào?,"Điều kiện, tiêu chuẩn cấp thẻ kiểm tra cho cán bộ công chức thanh tra giao thông là gì?",0
+485,Mẫu thẻ công chức thanh tra giao thông được quy định như thế nào?,Mã số thẻ công chức thanh tra giao thông được quy định như thế nào?,0
+486,Ngôn ngữ sử dụng trong hồ sơ đăng ký đầu tư quy định như thế nào?,Ngôn ngữ sử dụng trong hồ sơ đăng ký đầu tư được quy định như thế nào?,1
+487,Nhà đầu tư được hoàn trả tiền ký quỹ theo nguyên tắc nào?,"Quản lý, sử dụng và hoàn trả số tiền ký quỹ của doanh nghiệp được quy định như thế nào?",0
+488,Nhà đầu tư được hoàn trả tiền ký quỹ theo nguyên tắc nào?,Nguyên tắc hoàn trả tiền ký quỹ khi thực hiện dự án đầu tư,1
+489,Nhà đầu tư được hoàn trả tiền ký quỹ theo nguyên tắc nào?,Mức ký quỹ để đảm bảo thực hiện dự án đầu tư là bao nhiêu?,0
+490,"Hội đồng an toàn, vệ sinh lao động cấp tỉnh gồm những thành phần nào?","Hội đồng an toàn, vệ sinh lao động cấp tỉnh tư vấn những nội dung gì cho Ủy ban nhân dân cấp tỉnh trong việc tổ chức thực hiện quy định về an toàn, vệ sinh lao động?",0
+491,"Hội đồng an toàn, vệ sinh lao động cấp tỉnh gồm những thành phần nào?"," Hội đồng an toàn, vệ sinh lao động cơ sở gồm có những ai?",0
+492,"Hội đồng an toàn, vệ sinh lao động cấp tỉnh gồm những thành phần nào?","Hội đồng quốc gia về an toàn, vệ sinh lao động bao gồm những ai?",0
+493,"Hoạt động của các cơ quan, đơn vị không có cơ quan Thanh tra quốc phòng được quy định như thế nào?","Trách nhiệm của các cơ quan, đơn vị không phải doanh nghiệp trực thuộc Bộ Quốc phòng được quy định ra sao?",0
+494,Phương thức tham gia đóng góp chương trình hưu trí tự nguyện bổ sung.,Đối tượng tham gia đóng góp chương trình hưu trí bổ sung tự nguyện.,0
+495,Đối tượng áp dụng chương trình hưu trí bổ sung tự nguyện,Đối tượng tham gia đóng góp chương trình hưu trí bổ sung tự nguyện.,0
+496,Cán bộ trong cơ quan Tòa án có được làm người đại diện trong tố tụng dân sự không?,Công chức nhà nước có được làm người đại diện theo pháp luật trong vụ án hành chính,0
+497,Người đại diện theo pháp luật trong tố tụng dân sự được quy định như thế nào?,Công chức nhà nước có được làm người đại diện theo pháp luật trong vụ án hành chính,0
+498,Người đại diện theo pháp luật trong tố tụng dân sự được quy định như thế nào?,Người đại diện trong tố tụng dân sự được quy định như thế nào?,1
+499,"Việc kiểm tra, xử lý vi phạm tài chính đối với tổ chức tài chính vi mô được quy định như thế nào?","Thanh tra, giám sát ngân hàng có quyền xử lý các hành vi gì của tổ chức tài chính vi mô?",0
+500,Đơn vị điện lực là gì?,Đơn vị phát điện là gì?,0
+501,"Cơ quan làm công tác thi đua, khen thưởng trong ngành Công thương có trách nhiệm gì?","Trách nhiệm của cơ quan làm công tác thi đua , khen thưởng trong ngành Công thương",1
+502,"Các cơ quan báo chí ngành Công Thương có trách nhiệm gì trong công tác thi đua, khen thưởng?",Trách nhiệm của cơ quan báo chí ngành Công thương trong thi đua khen thưởng,1
+503,"Ai có thẩm quyền cử cán bộ công đoàn đi đào tạo,bồi dưỡng?","Người nào có thẩm quyền cử cán bộ công đoàn đi đạo tạo, bồi dưỡng",1
+504,Trong ngành Công Thương có các danh hiệu thi đua nào dành cho cá nhân?,Danh hiệu thi đua không cho cá nhân trong ngành Công thương,0
+505,"Chi đào tạo, bồi dưỡng cho cán bộ công đoàn được quy định ra sao?","Thế nào là chi đào tạo, bôi dưỡng cán bộ công đoàn",1
+506,"Có các hình thức khen thưởng nào đối với cá nhân, tập thể ngành công thương?","Có bao nhiêu cách khen thưởng cá nhân, tập thể ngành công thương",1
+507,"Đăng ký tổ chức hội chợ, triển lãm thương mại ở đâu?","Nơi đăng kí ổ chức hội chợ, triển lãm thương mại",1
+508,Hình thức khen thưởng ngành Công thương,Khen thưởng trong ngành công thương là gì,0
+509,DN kinh doanh dịch vụ kế toán nước ngoài báo cáo không đầy đủ nội dung tình hình cung cấp dịch vụ kế toán qua biên giới cho BTC bị xử phạt ra sao?,Mức phạt cho DN kinh doanh dịch vụ kế toán nước ngoài báo cáo không đủ nội dung cung cấp dịch vụ kế toán qua biên giới cho BTC là bao nhiêu,1
+510,Cơ chế hoạt động của Hội đồng giám sát xổ số được quy định như thế nào?,Hội đồng giám sát xổ số là gì,0
+511,Đối tượng nào được Quỹ đổi mới công nghệ quốc gia hỗ trợ tài chính?,Ai là người được Quỹ đổi mới công nghệ quốc gia hỗ trợ kinh tế,1
+512,Chủ tịch Hội đồng giám sát xổ số được quy định như thế nào?,Chủ tịch Hội đồng giám sát xổ số có quyền gì,0
+513,Thành viên Hội đồng giám sát xổ số được quy định như thế nào?,Ai mới đủ điều kiện để là Thành viên Hội đồng giám sát xổ số,1
+514,Nhiệm vụ của Hội đồng giám sát xổ số được quy định như thế nào?,Hình thức hoạt động của Hội đồng giám sát xổ số,0
+515,Quyền hạn của Hội đồng giám sát xổ số được quy định ra sao?,Hội đồng giám sát xổ số được phép quyết định những gì,1
+516,Hội đồng khoa học và công nghệ do Hội đồng quản lý Quỹ đổi mới công nghệ quốc gia quyết định thành lập như thế nào?,Nhiệm vụ của Hội đồng khoa học và công nghệ là gì,0
+517,DN kinh doanh dịch vụ kế toán nước ngoài không báo cáo việc thực hiện hợp đồng cung cấp DVKT qua biên giới bị xử phạt ra sao?,Mức phạt cho DN kinh doanh dịch vụ kế toán nước ngoài không báo cáo cung cấp dịch vụ kế toán qua biên giới cho BTC là bao nhiêu,1
+518,DN kinh doanh dịch vụ kế toán nước ngoài thực hiện các hành vi bị nghiêm cấm trong hoạt động cung cấp dịch vụ kế toán bị xử phạt ra sao?,Mức phạt cho DN kinh doanh dịch vụ kế toán nước ngoài có hành vi vi phạm điều cấm trong hoạt động cung cấp dịch vụ là gì,1
+519,Tăng cường công tác quản lý và nâng cao đạo đức nhà giáo được quy định như thế nào đối với các sở giáo dục và đào tạo?,Quy định về tăng cường quản lý nâng cao đạo đức nhà giáo trong sở giáo dục và đào tạo là gì,1
+520,"Thời hạn không được kinh doanh của cán bộ, công chức, viên chức sau khi thôi giữ chức vụ là gì?","Cán bộ, công chức, viên chức phải mất bao lâu mới được hoạt động kinh doanh sau khi thôi giữ chức vụ",1
+521,"Vị trí, chức năng của Sở y tế là gì?",Sở y tế có tác dụng là gì,1
+522,Nhiệm vụ và quyền hạn của Sở y tế đối với Ủy ban nhân dân cấp tỉnh là gì?,Sở y tế và Uỷ ban nhân dân cấp tỉnh có trách nhiệm gì với nhau,0
+523,Trường hợp đối chất trong tố tụng dân sự 2004 được quy định như thế nào?,Tố tụng dân sự 2004 là gì,0
+524,Sở y tế cần phải trình những dự thảo nào lên Chủ tịch Ủy ban nhân dân cấp tỉnh?,Dự thảo mà sở y tế cần phải cung cấp cho Chủ tịch uỷ ban nhân dân tỉnh là gì,1
+525,"Nhiệm vụ và quyền hạn của Sở y tế về truyền thông, giáo dục sức khỏe là gì?","Quyền và nghĩa vụ của Sở y tế với truyền thông, giáo dục sức khoẻ",1
+526,Nhiệm vụ và quyền hạn của Sở y tế đối với công tác y tế dự phòng là gì?,Quyền và nghĩa vụ của Sở y tế với công tác y tế dự phòng ,1
+527,Biện pháp bảo đảm thực hiện nghĩa vụ dân sự theo Bộ luật Dân sự 1995 gồm những biện pháp nào?,Cách để thực hiện đúng nghĩa vụ dân sự theo Bộ luật Dân sự 1995,1
+528,"Nhiệm vụ và quyền hạn của Sở y tế trong việc khám bệnh, chữa bệnh và phục hồi chức năng là gì?","Trách nhiệm của Sở y tế trong việc khám, chữa bệnh và phục hồi chức năng là gì",1
+529,Tiền môi giới đi làm việc ở nước ngoài theo hợp đồng được quy định như thế nào?,Định nghĩa tiền môi giới đi làm việc ở nước ngoài theo hợp đồng,0
+530,Sở y tế có nhiệm vụ và quyền hạn gì đối với vấn đề an toàn thực phẩm?,Trách nhiệm của Sở y tế trong vấn đề an toàn thực phẩm,1
+531,Sở y tế có nhiệm vụ và quyền hạn gì trong việc đào tạo nguồn nhân lực y tế?,Trách nhiệm của Sở y tế trong vấn đề đào tạo nguồn nhân lực y tế,1
+532,Lãnh đạo của Sở Y tế được quy định như thế nào?,Điều kiện để có thể làm lãnh đạo Sở y tế,1
+533,Chậm thực hiện nghĩa vụ dân sự theo Bộ luật dân sự 2005 được quy định như thế nào?,Chậm thực hiện nghĩa vụ dân sự theo bộ luật dân sự 2005 thì sẽ phải mắc những vấn đề ì,1
+534,Vận chuyển tài liệu mật trong quân đội được quy định như thế nào?,Những quy định cần biết khi vận chuyển tài liệu mật trong quân đội?,1
+535,Phạm vi đại diện theo Bộ luật dân sự 2005 được quy định ra sao?,Những quy định cần biết trong việc phạm vi đại diện theo như bộ luật dân sự 1995,1
+536,Thẻ bảo hiểm y tế được quy định như thế nào?,Những quy định cần biết khi sử dụng thẻ bảo hiểm y tế,1
+537,Phạm vi thẩm quyền đại diện theo Bộ luật dân sự 1995 được quy định ra sao?,Quy định trong phạm vi thẩm quyền đại diện theo bộ luật dân sự 1995,1
+538,Tài liệu mật trong quân đội được quản lý như thế nào?,Hình thức quản lý tài liệu mật trong quân đội là gì,1
+539,Tài liệu mật trong quân đội được thu hồi trong những trường hợp nào?,Định nghĩa tài liệu mật trong quân đội,0
+540,Thời điểm thẻ bảo hiểm y tế có giá trị sử dụng được quy định như thế nào?,Quy định về giá trị thời gian sử dụng của thẻ bảo hiểm y tế,1
+541,Cung cấp dịch vụ viễn thông có một chỉ tiêu chất lượng thấp hơn quy định bị phạt bao nhiêu?,Cung cấp dịch vụ viễn thông có chất lượng cao hơn so với quy định thì sao,0
+542,"Không công bố, kiểm tra, kiểm soát chất lượng mạng theo quy định của cơ quan nhà nước có thẩm quyền bị phạt bao nhiêu?","Mức phạt cho hành vi không công bố, kiểm tra, kiểm soát chất lượng mạng theo quy định của nhà nước là bao nhiêu",1
+543,Các loại tài liệu nghiệp vụ trong quân đội nào phải được tiến hành đăng ký?,Tài liệu nghiệp vụ trong quân đội là gì,0
+544,Những loại tài liệu mật trong quân đội nào thuộc diện bị hủy?,Loại tài liệu mật nào trong quân đội thì cần phải bị huỷ,1
+545,"Người phổ biến, sử dụng thông tin mật trong quân đội có trách nhiệm gì?","Trách nhiệm của người phổ biến, sử dụng thông tin mật trong quân đội",1
+546,Hồ sơ cấp thẻ bảo hiểm y tế bao gồm các loại giấy tờ nào?,Những lợi ích khi sử dụng bảo hiểm y tế,0
+547,Tổ chức kiểm định chất lượng giáo dục có nhiệm vụ được quy định như thế nào?,Nhiệm vụ của tổ chức kiểm định chất lượng giáo dục,1
+548,Trách nhiệm của tổ chức kiểm định chất lượng giáo dục là gì?,Tổ chức kiểm định giáo dục cần phải làm những gì,1
+549,Quyền hạn của tổ chức kiểm định chất lượng giáo dục là gì?,Tổ chức kiểm định giáo dục có thể quyết định những gì,1
+550,Nguồn tài chính của tổ chức kiểm định chất lượng giáo dục do Nhà nước thành lập được quy định như thế nào?,Nhà nước quy định nguồn tài chính cho tổ chức kiểm định giáo dục như thế nào,1
+551,Quyền hạn và nghĩa vụ tài chính của tổ chức kiểm định chất lượng giáo dục là gì?,Tổ chức kiểm định giáo dục có trách nhiệm gì với nguồn tài chính và được quyền quyết định gì,1
+552,Thế nào là quan trắc công trình đường sắt,Quan trắc công trình đường sắt là gì,1
+553,Mức phạt tiền với hành vi chế biến thủy sản có xuất xứ từ cơ sở nuôi cấm thu hoạch,Chế biến thuỷ sản có xuất xứ từ cơ sở nuôi cấm thu hoạch là gì,0
+554,Thế nào là sửa chữa công trình đường sắt?,Định nghĩa sửa chữa công trình đường sắt,1
+555,Quyền của người nhờ thu hối phiếu là gì?,Người nhờ thu hối phiếu có những quyền hạn gì,1
+556,Mức phạt tiền với hành vi thuê người khác vận chuyển thủy sản có tạp chất,Thuê người khác vận chuyển thuỷ sản có tạp chất bị phạt bao nhiêu,1
+557,Mức phạt tiền đối với hành vi thu gom thủy sản có tạp chất là bao nhiêu?,Thu gom thuỷ sản có tạp chất bị phạt bao nhiêu,1
+558,Đường ống công nghệ là gì?,Định nghĩa đường ống công nghệ,1
+559,Hồ sơ quản lý hành lang an toàn giao thông đường sắt gồm những gì?,Quy định của hành lang an toàn giao thông đường sắt,0
+560,Hồ sơ bảo trì công trình đường sắt,Giấy tờ cần thiết cho việc bảo trì công trình đường sắt,1
+561,"Tuyên truyền, giáo dục phòng, chống mại dâm trong trường học được quy định như thế nào?",Giáo dục về  phòng chống mại dâm trong trường học,1
+562,Người nộp lệ phí môn bài bao gồm những ai?,Lệ phí môn bài là gì,0
+563,"Trách nhiệm của cá nhân trong phòng, chống mại dâm được quy định như thế nào?",Cá nhân trong phòng chống mại dâm có trách nhiệm là gì,1
+564,Tòa án ra quyết định định giá tài sản và thành lập Hội đồng định giá trong tố tụng dân sự trong các trường hợp nào?,Quy định định giá tài sản và thành lập hội đồng định giá trong tố tụng dân sự,0
+565,"Mỗi gia đình có trách nhiệm gì trong việc phòng, chống mại dâm?",Trách nhiệm của mỗi gia đình trong phòng chống mại dâm,1
+566,Nguyên tắc giao dịch văn bản tố tụng bằng phương tiện điện tử,Quy định của cá nhân trong giao dịch văn bản tố tụng bằng phương tiện điện tử,1
+567,Thủ tục đăng ký gửi và nhận thông điệp dữ liệu điện tử với Tòa án,Quy trình đăng ký gửi và nhận thông điệp dữ liệu điện tử với Toà án,1
+568,Phương thức đóng bảo hiểm y tế đối với người có công với cách mạng,Các cách để đóng bảo hiểm y tế đối với người có công với cách mạng,1
+569,"Việc bán, cho thuê phim được quy định như thế nào?","Quy định trong việc cho thuê, bán phim",1
+570,Gửi ngân quỹ nhà nước tạm thời nhàn rỗi tại ngân hàng thương mại có kỳ hạn được pháp luật quy định như thế nào?,Quy định trong việc gửi ngân quỹ nhà nhước tạm thời tại ngân hàng thương mại có kỳ hạn,1
+571,"Việc thuê máy móc, thiết bị tại cơ quan, tổ chức, đơn vị sự nghiệp công lập được quy định như thế nào?","Quy định trong việc thuê máy móc, thiết bị tại cơ quan, tổ chức, đơn vị công lập",1
+572,"Việc khoán kinh phí sử dụng máy móc, thiết bị văn phòng phổ biến tại cơ quan, tổ chức, đơn vị sự nghiệp công lập quy định thế nào?",Khoán kinh phí sử dụng máy móc thiết bị văn phòng phổ biến tại cơ quan tổ chức công lập là gì,0
+573,"Nhiệm vụ, quyền hạn của Trung tâm Gìn giữ hòa bình Việt Nam",Trung tâm gìn giữ hoà bình Việt nam có những nhiệm vụ và quyền gì,1
+574,Thủ tục bổ nhiệm lại Thẩm phán cao cấp được tiến hành như thế nào?,Giấy tờ cần thiết trong việc bổ nhiệm lại thẩm phán cao cấp là gì,1
+575,Thủ tục bổ nhiệm Thẩm phán sơ cấp được quy định như thế nào?,Giấy tờ cần thiết trong việc bổ nhiệm thẩm phán sơ cấp,1
+576,Thủ tục bổ nhiệm Thẩm phán trung cấp được quy định như thế nào?,Giấy tờ cần thiết trong việc bổ nhiệm thẩm phán trung cấp,1
+577,"Nhiệm vụ, quyền hạn của Trung tâm pháp y cấp tỉnh",Trung tâm pháp y cấp tỉnh là gì,0
+578,Thù lao dịch vụ đấu giá tài sản,Phí dịch vụ đấu giá tài sản,1
+579,Mục đích liên kết giáo dục quốc phòng và an ninh là gì?,Liên kết giáo dục quốc phòng an ninh nhằm mục đích gì,1
+580,Dịch vụ thuê quầy làm thủ tục hành khách gồm những nội dung nào?,Thuê quầy làm thủ tục hành khách cần chú ý những gì,1
+581,Giấy chứng minh Công an nhân dân là gì?,Giấy chứng minh công an nhân dân dùng vào mục đích  nào,0
+582,Giấy chứng minh Công an nhân dân được cấp cho đối tượng nào?,Người nào không được cấp giấy chứng minh công an nhân dân,0
+583,"Nhiệm vụ phòng đào tạo, quản lý sinh viên của trung tâm giáo dục quốc phòng và an ninh là gì?","Phòng đào tạo, quản lý sinh viên của trung tâm giáo dục quốc phòng và an ninh làm những gì?",1
+584,"Thuốc phòng, chữa bệnh cho người là gì?","Khái niệm thuốc phòng, chữa bệnh cho người?",1
+585,Thuốc thành phẩm là gì?,Khái niệm thuốc thành phẩm?,1
+586,Nhà nước quản lý những nhóm giá thuốc nào?,Những nhóm giá thuốc nào được Nhà nước quản lý?,1
+587,"Quản lý giá một số thuốc do Nhà nước đặt hàng, định giá được tiến hành như thế nào?","Quy trình quản lý giá thuốc do nhà nước đặt hàng, định giá là gì",1
+588,Quản lý giá thuốc do cơ sở tự định giá được thực hiện như thế nào?,Quy trình thực hiện quản lý giá thuốc do cơ sở tự định giá là ,1
+589,Đối tượng tham gia liên kết giáo dục quốc phòng và an ninh được quy định như thế nào?,Ai không được phép tham gia liên kết giáo dục quốc phòng an ninh,0
+590,"Ai có thẩm quyền phê duyệt phương án cứu nạn, cứu hộ của lực lượng Cảnh sát phòng cháy, chữa cháy?","Người nào có quyền phê duyệt phương án cứu nạn, cứu hộ của lực lượng cảnh sát phòng cháy, chữa cháy",1
+591,"Lực lượng nào sẽ thường trực sẵn sàng cứu nạn, cứu hộ?",Lực lượng nào đóng vai trò hậu cần trong cứu nạn cứu hộ,0
+592,Trình tự thực hiện cấp mã số doanh nghiệp tự động được pháp luật quy định như thế nào?,Thủ tục cấp mã số doanh nghiệp tự động?,1
+593,Việc đóng gói tiền mặt được quy định như thế nào?,Thủ tục đóng gói tiền mặt?,1
+594,Việc niêm phong tiền mặt được quy định như thế nào?,Thủ tục niêm phong tiền mặt?,1
+595,Việc giao nhận tiền mặt trong ngành Ngân hàng được quy định như thế nào?,Thủ tục giao nhận tiền mặt trong Ngân hàng?,1
+596,Những dịch vụ hàng không nào do Nhà nước quy định mức giá?,Nhà nước quy định mức giá loại dịch vụ hàng không nào?,1
+597,"Hồ sơ hải quan đối với xăng dầu, hóa chất, khí xuất khẩu, tái xuất bao gồm những gì?","Thủ tục hải quan đối với xăng dầu, hóa chất, khí xuất khẩu, tái xuất?",1
+598,Trường hợp nào không được bố trí làm cán bộ quản lý kho quỹ ngân hàng?,Ai không được làm án bộ quản lý kho quỹ ngân hàng?,1
+599,"Trường hợp nào được mở hộp chìa khóa dự phòng kho tiền, két sắt của ngân hàng?","Khi nào được phép mở hộp chìa khóa dự phòng kho tiền, két sắt của ngân hàng?",1
+600,Đánh ghen mức nào thì bị xử lý hình sự?,Xử lý hình sự đối với hành vi đánh ghen như thế nào?,1
+601,Quy định về phân loại nợ đối với Ngân hàng Phát triển,Phân loại nợ đối với Ngân hàng Phát triển như thế nào?,1
+602,Cơ chế tự chủ tài chính của đơn vị sự nghiệp công là gì?,Quy định về cơ chế tự chủ tài chính của đơn vị sự nghiệp công,1
+603,"Trình tự, thủ tục thực hiện để hỗ trợ người lao động ngừng việc do Covid-19",Hỗ trợ người lao động ngừng việc do Covid-19 được tiến hành như thế nào?,1
+604,"Trình tự, thủ tục thực hiện để hỗ trợ người lao động ngừng việc do Covid-19","Đối tượng, điều kiện hỗ trợ cho người lao động ngừng việc do Covid-19",0
+605,Cách xác định người có công giúp đỡ cách mạng,Tiêu chuẩn xác định người có công giúp đỡ cách mạng,1
+606,Mã QR trên thẻ CCCD gắn chip có những thông tin gì?,Những thông tin chứa trong mã QR trên thẻ CCCD là gì?,1
+607,Lựa chọn đất xây dựng khi quy hoạch xây dựng phải đảm bảo yêu cầu nào?, Khi quy hoạch xây dựng thì chọn đất phải đảm bảo điều gì?,1
+608,"Quy trình, thủ tục, hồ sơ chi hỗ trợ nhân đạo từ Quỹ bảo hiểm xe cơ giới","Quy trình, thủ tục và hồ sơ chi trả hỗ trợ nhân đạo từ Quỹ bảo hiểm xe cơ giới",0
+609,Cơ cấu tổ chức Hiệp hội Sáng tạo và Bản quyền tác giả Việt Nam?,Hiệp hội Sáng tạo và Bản quyền tác giả Việt Nam được tổ chức như thế nào?,1
+610,Nội dung chi cho công tác thỏa thuận quốc tế mới nhất,Nội dung chi cho công tác điều ước quốc tế theo quy định mới,0
+611,"Quy định về điều chỉnh cơ cấu vốn, tài sản của Ngân hàng Phát triển","Điều động vốn, tài sản của Ngân hàng phát triển được quy định như thế nào?",0
+612,Kích thước bản sao y có bắt buộc bằng bản chính không?,quy định về bản chính và bản sao,1
+613,Khi xảy ra tai nạn đường sắt thì phải làm gì?,Khi xảy ra tai nạn đường sắt thì có phải dừng tàu khẩn cấp không?,1
+614,Viên chức thì có phải kê khai tài sản thu nhập hay không?,"quy định về người có nghĩa vụ kê khai tài sản, thu nhập",1
+615,"Điều kiện, tiêu chuẩn để xác định là bệnh binh theo quy định mới?",Quy định về chế độ ưu đãi đối với bệnh binh mới nhất,0
+616,Trách nhiệm giám sát dự án đầu tư sử dụng vốn nhà nước ngoài đầu tư công thuộc về ai?,Ai có trách nhiệm giám sát dự án đầu tư sử dụng vốn nhà nước ngoài đầu tư công,1
+617,Bị phạt hành chính 18 triệu đồng có thể xin nộp phạt nhiều lần hay không?,Có thể xin nộp phạt nhiều lần khi bị phạt tài chính hay không?,1
+618,"Tất cả sinh viên đang theo học đại học, cao đẳng sẽ được hỗ trợ vay vốn phải không?",Đối tượng sinh viên được hỗ trợ vay vốn?,1
+619,Quy định về nội dung và mức chi thẩm định sách giáo khoa giáo dục phổ thông,Quy định về chi tổ chức họp thẩm định sách giáo khoa giáo dục phổ thông,0
+620,Quy định về quy trình lập kế hoạch sử dụng đất kỳ đầu quốc gia,Quy trình lập kế hoạch sử dụng đất kỳ đầu quốc gia như thế nào?,1
+621,Điều kiện để viên chức chuyên ngành Thông tin và Truyền thông thăng hạng chức danh nghề nghiệp từ hạng III lên hạng II?,Điều kiện để viên chức chuyên ngành Thông tin và Truyền thông thăng hạng chức danh nghề nghiệp hạng IV lên hạng III?,0
+622,Yêu cầu đối với tin nhắn quảng cáo được quy định thế nào?, Tin nhắn quảng cáo phải đảm bảo những yêu cầu gì?,1
+623,Mã số bảo hiểm y tế của một người có được giữ nguyên?,có quy định về cấu trúc mã thẻ BHYT,1
+624,"Quy định về nhiệm vụ, quyền hạn của văn phòng Ủy ban nhân dân cấp tỉnh","Nhiệm vụ, quyền hạn của văn phòng Ủy ban nhân dân cấp tỉnh là gì?",1
+625,Tổ chức bộ máy của Công an cấp tỉnh thì sẽ do người nào quy định?,Tổ chức bộ máy của Công an cấp tỉnh thì sẽ do ai quy định?,1
+626,Có việc làm thì phải thông báo cho Trung tâm dịch vụ việc làm trong vòng bao nhiêu ngày?,Có việc làm thì có phải thông báo cho Trung tâm dịch vụ việc làm không?,1
+627,Những chuyên ngành nào đủ điều kiện để được cấp Chứng chỉ định giá đất?,Để được chứng chỉ định giá đất phải có đủ các điều kiện gì?,1
+628,Trên mặt có sẹo do tai nạn có phải đổi CCCD hay không?,Các trường hợp đổi thẻ Căn cước công dân?,1
+629,Nhà chung cư nhiều chủ sở hữu thì mới phải lập Ban quản trị?,Quy định về Ban quản trị nhà chung cư,1
+630,Đánh giá chương trình đầu tư công được thực hiện như thế nào?,Để đánh giá chương trình đầu tư công thì cần những gì?,1
+631,Trách nhiệm Ủy ban nhân dân cấp huyện về chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội?,Trách nhiệm Ủy ban nhân dân cấp xã về chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội?,0
+632,Những sinh viên nào khi tốt nghiệp có thể được tuyển chọn đào tạo sĩ quan dự bị?, Sinh viên khi tốt nghiệp đại học phải đảm bảo các điều kiện gì để được tuyển chọn đào tạo sĩ quan dự bị?,1
+633,Thời gian đào tạo sĩ quan dự bị đối với người vừa hoàn thành nghĩa vụ quân sự?,Người vừa hoàn thành nghĩa vụ quân sự được đào tạo sĩ quan dự bị trong bao lâu?,1
+634,Những tiêu chí thành lập chi cục và các tổ chức tương đương thuộc sở,Thành lập chi cục và các tổ chức tương đương thuộc sở thì cần những tiêu chí nào?,1
+635,Quyết định khởi tố vụ án hình sự thì có cần phải ghi điều bao nhiêu hay không?,Có cần ghi điều bao nhiêu khi quyết định khởi tố vụ án hình sự không? ,1
+636,Hướng dẫn thủ tục đăng ký lấy biển số xe máy,Thủ tục đăng ký lấy biển số xe máy,1
+637,Lưu giữ thông tin tín dụng được quy định như thế nào?,Xử lý thông tin tín dụng được quy định như thế nào?,0
+638,Lưu giữ thông tin tín dụng được quy định như thế nào?,Quy định lưu giữ thông tin tín dụng,1
+639,"Việc xây dựng, tích hợp phương án phát triển cụm công nghiệp vào quy hoạch tỉnh được quy định ra sao?","Xây dựng, tích hợp phương án phát triển cụm công nghiệp vào quy hoạch tỉnh được quy định như thế nào?",1
+640,"Ai có thẩm quyền đánh giá, xếp loại chất lượng công chức?","Quy định về thẩm quyền đánh giá, xếp loại chất lượng công chức",1
+641,Quyền và nghĩa vụ của công ty thông tin tín dụng quy định như thế nào?,Nghĩa vụ của công ty thông tin tín dụng được quy định như thế nào?,0
+642,"Trình tự đánh giá, xếp loại chất lượng công chức là cấp phó","Để đánh giá, xếp loại chất lượng công chức là cấp phó thì làm như thế nào?",1
+643,Cá nhân kinh doanh nộp thuế theo từng lần phát sinh có phải thực hiện chế độ kế toán hay không?,Quy định phương pháp tính thuế đối với cá nhân kinh doanh nộp thuế theo từng lần phát sinh,1
+644,Hồ sơ khai thuế khi cá nhân cho thuê tài sản trực tiếp khai thuế với cơ quan thuế?,Quy định hồ sơ khai thuế đối với cá nhân cho thuê tài sản trực tiếp khai thuế với cơ quan thuế,1
+645,Hơn 60 tuổi có quyền hiến tạng nữa hay không?,Thông tin về quyền hiến tạng,1
+646,"Ai có thẩm quyền phê duyệt phương án phòng cháy, chữa cháy?"," Quy định về thẩm quyền phê duyệt phương án phòng cháy, chữa cháy ",1
+647,Phải có bằng lái xe B2 mới được thi bằng C đúng không?,Có bắt buộc có bằng lái xe B2 thì mới được thì bằng C?,1
+648,"Thời hạn vay để mua, thuê mua nhà ở xã hội là bao lâu?","Mức lãi suất vay để mua, thuê mua nhà ở xã hội là bao nhiêu?",0
+649,Làm điều dưỡng ở phòng khám tư chuyên khoa da liễu thì có được cấp chứng chỉ hành nghề hay không?,Quy định điều dưỡng viên muốn được cấp chứng chỉ hành nghề,1
+650,Công ty phải gửi báo cáo y tế lao động vào thời gian nào?,Thời gian gửi báo cáo y tế tuyến cơ sở là khi nào?,1
+651,Cách xác định người trúng tuyển viên chức khi có 2 người cùng điểm thi ở chỉ tiêu cuối cùng,Quy định về cách xác định người trúng tuyển trong kỳ thi tuyển viên chức ,1
+652,Chủ tịch Hội đồng tuyển dụng viên chức có bắt buộc là người đứng đầu đơn vị sự nghiệp công lập hay không?,Có nhất thiết chủ tịch Hội đồng tuyển dụng viên chức  là người đứng đầu đơn vị sự nghiệp công lập hay không?,1
+653,Khi ký kết hợp đồng EPC các bên phải thỏa thuận những nội dung gì?,Những nội dung mà khi ký kết hợp đồng EPC các bên phải thỏa thuận?,1
+654,"Định nghĩa về hợp đồng xây dựng đơn giản, quy mô nhỏ","Hợp đồng xây dựng đơn giản, quy mô nhỏ là gì?",1
+655,"Chức trách, nhiệm vụ đối với ngạch Văn thư viên trung cấp là công chức chuyên ngành văn thư?","Chức trách, nhiệm vụ đối với ngạch Văn thư viên trung cấp là công chức chuyên là  ngành văn thư là gì?",1
+656,Sản phẩm thông tin tín dụng là gì?,Như thế nào là sản phẩm thông tin tín dụng?,1
+657,Nguyên tắc cung cấp sản phẩm thông tin tín dụng được quy định như thế nào?,Nguyên tắc sử dụng sản phẩm thông tin tín dụng được quy định như thế nào?,0
+658,Phát hiện trẻ bị bỏ rơi tại bệnh viện thì cần phải làm gì?,Quy định việc đăng ký khai sinh cho trẻ bị bỏ rơi ,1
+659,Phát hiện trẻ bị bỏ rơi tại bệnh viện thì cần phải làm gì?,Phát hiện trẻ bị bỏ rơi thì phải làm gì?,1
+660,Cử nhân luật thì có được bảo vệ cho người khởi kiện ở trước tòa hay không?,Ai thì được bảo vệ cho người khởi kiện ở trước tòa?,1
+661,Luật sư vắng mặt tại phiên tòa giám đốc thẩm thì sẽ bị hoãn?,Phiên tòa giám đốc thẩm có bị hoãn khi Luật sư vắng mặt không?,1
+662,Danh hiệu “Chiến sỹ thi đua cơ sở” ngành BHXH bao gồm những tiêu chuẩn nào?,Những tiêu chuẩn của Danh hiệu “Chiến sỹ thi đua cơ sở” ngành BHXH là gì?,1
+663,Chế độ đối với liệt sĩ theo quy định mới gồm những chế độ gì?,Những chế độ đối với liệt sĩ theo quy định mới?,1
+664,Điều kiện áp dụng đối với thuế suất thuế xuất khẩu ưu đãi theo Hiệp định UKVFTA?,Thuế suất thuế xuất khẩu ưu đãi theo Hiệp định UKVFTA được áp dụng với điều kiện gì?,1
+665,Điều kiện áp dụng đối với thuế suất thuế xuất khẩu ưu đãi theo Hiệp định UKVFTA?,Điều kiện áp dụng về thuế suất thuế nhập khẩu ưu đãi đặc biệt theo Hiệp định UKVFTA?,0
+666,Hiểu thế nào về cuộc đấu giá bán cổ phần không thành công?,Cuộc đấu giá bán cổ phần không thành công là như thế nào?,1
+667,Mức hỗ trợ mai táng phí cho người hiến bộ phận cơ thể người?,Mai táng phí cho người hiến bộ phận cơ thể người có được hỗ trợ không?,1
+668,"Nguyên tắc chung của việc xây dựng, sửa chữa, cải tạo cầu qua sông có đê?","Việc xây dựng, sửa chữa, cải tạo cầu qua sông có đê có nguyên tắc gì?",1
+669,Mỗi phạm nhân thì sẽ được đặc xá bao nhiêu lần?,Số lần đặc xá của mỗi phạm nhân?,1
+670,Thẩm quyền xử phạt VPHC của Đội trưởng thuộc Chi cục Hải quan trong lĩnh vực văn hóa và quảng cáo,Thẩm quyền xử phạt VPHC của Chi cục trưởng Chi cục Hải quan trong lĩnh vực văn hóa và quảng cáo,0
+671,Mức phụ cấp đối với đội cấp cứu 115 vận chuyển người bị cách ly y tế là bao nhiêu?,Quy định về chế độ phụ cấp chống dịch áp dụng với đội cấp cứu 115 vận chuyển người bị cách ly,1
+672,Di chúc của công dân Việt Nam đang ở nước ngoài có giá trị trong các trường hợp nào?,Các trường hợp có giá trị của di chúc của công dân Việt Nam đang ở nước ngoài?,1
+673,Thủ tục lập di chúc tại nhà riêng được thực hiện như thế nào?,Thủ tục lập di chúc tại nhà riêng,1
+674,Bao nhiêu tuổi thì có thể lập di chúc?,Độ tuổi có thể lập di chúc là bao nhiêu,1
+675,Nội dung của di chúc thì có được viết tắt hay không?,Viết tắt khi viết di chúc có được không?,1
+676,Mức phạt đối với người chờ đèn đỏ ở khu vực bóng râm?,Chờ đèn đỏ ở khu vực bóng râm bị phạt bao nhiêu?,1
+677,"Nhiệm vụ quốc phòng, an ninh là như thế nào?","Như thế nào là nhiệm vụ quốc phòng, an ninh",1
+678,Quy định về các hình thức tổ chức thi đua trong ngành BHXH,"Quy định về căn cứ xét thi đua, khen thưởng trong ngành BHXH",0
+679,Vượt quá nồng độ cồn bị tạm giữ xe khi nào mới lấy lại được?,Thời gian tạm giữ xe khi vi phạm vượt quá nồng độ cồn,1
+680,Trang trại quy mô lớn không cập nhật đầy đủ hồ sơ về việc sử dụng thức ăn chăn nuôi sẽ bị xử phạt bao nhiêu?,"Trang trại quy mô lớn không lưu giữ, cập nhật đầy đủ hồ sơ về quá trình hoạt động chăn nuôi bị phạt bao nhiêu?",0
+681,Nội dung giải trình của cơ sở giáo dục phổ thông công lập trong quản lý các hoạt động giáo dục,Nội dung giải trình của cơ sở giáo dục mầm non trong quản lý các hoạt động giáo dục,0
+682,Cơ quan nào cấp giấy phép vận chuyển hàng hóa nguy hiểm?,Giấy phép vận chuyển hàng hóa nguy hiểm do cơ quan nào cấp?,1
+683,Cơ quan nào cấp giấy phép vận chuyển hàng hóa nguy hiểm?,Xin giấy phép vận chuyển hàng hóa nguy hiểm ở đâu?,1
+684,Hồ sơ thu hồi chứng thư số chuyên dùng Ngành BHXH bao gồm những giấy tờ gì?,Hồ sơ thu hồi chứng thư số chuyên dùng Ngành BHXH gồm những văn bản nào?,1
+685,Du học sinh về nước thuộc diện đi cách ly tập trung phải đóng phí là bao nhiêu?,Du học sinh về nước thuộc diện đi cách ly tập trung có phải đóng phí không?,1
+686,Ai là người công bố di chúc?,Người nào có quyền công bố di chúc?,1
+687,Mẫu báo cáo thực trạng quản trị và cơ cấu tổ chức doanh nghiệp 6 tháng/năm mới nhất,Quy định về mẫu báo cáo thực trạng quản trị và cơ cấu tổ chức doanh nghiệp theo năm,0
+688,Kết quả xếp loại viên chức có được làm cơ sở xếp loại Đảng viên hay không?,Xếp loại Đảng viên có cần đến Kết quả xếp loại viên chức hay không? ,1
+689,Có được hưởng BHYT khi đã đăng ký hiến tạng?,Khi đăng ký hiến tạng có đươc sử dụng BHYT không?,1
+690,Người theo tôn giáo thì có được đăng ký dự tuyển viên chức không?,Người theo đạo thì có được đăng ký dự tuyển viên chức không?,1
+691,Những vụ án giết người sẽ bắt buộc khám nghiệm tử thi phải không?,Những vụ án giết người có bắt buộc khám nghiệm tử thi  không?,1
+692,Gây rối trật tự công cộng có bị ở tù hay không?,Tội gây rối trật tự công cộng bị phạt như thế nào?,1
+693,"Người bệnh tại cơ sở KCB công lập được tham gia ý kiến, giám sát bằng hình thức gì?","Hình thức để người bệnh tại cơ sở KCB công lập được tham gia ý kiến, giám sát?",1
+694,Báo cáo về dự án đầu tư bằng hình thức nào?,Hình thức để báo cáo về dự án đầu tư,1
+695,Tài liệu xác định địa điểm thực hiện dự án đầu tư tại nước ngoài là loại giấy tờ nào?,Loại văn bản xác định địa điểm thực hiện dự án đầu tư tại nước ngoài là gì?,1
+696,"Bến cảng, cầu cảng trong quá trình khai thác cần bảo đảm các yêu cầu nào?","Yêu cầu mà bến cảng, cầu cảng trong quá trình khai thác cần bảo đảm là gì?",1
+697,Tất cả văn bản quy phạm pháp luật phải được thể hiện bằng tiếng Việt?,Tất cả văn bản quy phạm pháp luật được thể hiện bằng ngôn ngữ nào?,1
+698,Đăng kí nguyện vọng xét tuyển vào đại học qua phương thức nào?,Làm sao để điều chỉnh nguyện vọng đăng ký xét tuyển vào đại học?,0
+699,Tổ chức bị phạt hành chính bao nhiêu thì không cần lập biên bản?,Mức phạt hành chính mà không cần lập biên bản là bao nhiêu?,1
+700,Áp dụng quản lý rủi ro trong quản lý về đăng ký thuế được quy định như thế nào?,Áp dụng quản lý rủi ro đối với người nộp thuế là hộ kinh doanh được quy định thế nào?,0
+701,Quyền của cá nhân khai thác sử dụng tài nguyên nước,"Quyền, nghĩa vụ của tổ chức, cá nhân khai thác, sử dụng tài nguyên nước là gì?",1
+702,Quyền của cá nhân khai thác sử dụng tài nguyên nước,Quy định về mức thu tiền cấp quyền khai thác tài nguyên nước hiện nay,0
+703,Quyền của cá nhân khai thác sử dụng tài nguyên nước,Quy định về lộ trình tính giá dịch vụ sự nghiệp công sử dụng ngân sách nhà nước,0
+704,Trình tự thực hiện đăng ký lại khai sinh có yếu tố nước ngoài,Cách thức thực hiện đăng ký lại khai sinh có yếu tố nước ngoài,0
+705,Trình tự thực hiện đăng ký lại khai sinh có yếu tố nước ngoài,"Những giấy tờ, tài liệu có trong hồ sơ đăng ký lại khai sinh có yếu tố nước ngoài",0
+706,Trình tự thực hiện đăng ký lại khai sinh có yếu tố nước ngoài,Quy trình thực hiện đăng ký lại khai sinh có yếu tố nước ngoài,1
+707,Trình tự thực hiện đăng ký lại khai sinh có yếu tố nước ngoài,"Thủ tục đăng ký khai sinh có yếu tố nước ngoài cho người đã có hồ sơ, giấy tờ cá nhân",1
+708,Người sử dụng lao động được sa thải người lao động trong những trường hợp nào?,Người lao động bị sa thải trong trường hợp nào?,1
+709,Người sử dụng lao động được sa thải người lao động trong những trường hợp nào?,Trách nhiệm của người lao động,0
+710,Người sử dụng lao động được sa thải người lao động trong những trường hợp nào?,Quy định về hội nghị người lao động,0
+711,Tính tiền tăng ca cho người lao động?,Tính tiền làm thêm giờ cho người lao động,1
+712,Đối tượng được vay cầm cố tại Ngân hàng Nhà nước, Ai được vay cầm cố tại Ngân hàng Nhà nước,1
+713,Người lao động làm việc không trọn thời gian được quy định như thế nào?, Người lao động làm việc bán thời gian được quy định như thế nào?,1
+714,Trình tự thực hiện đăng ký chấm dứt giám hộ có yếu tố nước ngoài, Quy trình thực hiện đang ký chấm dứt giám hộ có yếu tố nước ngoài,1
+715,Trình tự thực hiện đăng ký chấm dứt giám hộ có yếu tố nước ngoài, Cách thức thực hiện đăng ký chấm dứt giám hộ có yếu tố nước ngoài,0
+716,"Vệ sinh đối với người bệnh, người nhà người bệnh trong công tác kiểm soát nhiễm khuẩn trong các cơ sở khám bệnh, chữa bệnh","Vệ sinh đối với bệnh nhân, người nhà bệnh nhân trong công tác kiểm soát nhiễm khuẩn trong các cơ sở khám bệnh, chữa bệnh",1
+717,"Vệ sinh đối với người bệnh, người nhà người bệnh trong công tác kiểm soát nhiễm khuẩn trong các cơ sở khám bệnh, chữa bệnh","Vệ sinh đối với người khỏe, người nhà người khỏe trong công tác kiểm soát nhiễm khuẩn trong các cơ sở khám bệnh, chữa bệnh",0
+718,Quan hệ tình dục với người dưới 13 tuổi thì bị xử phạt bao nhiêu năm tù?,Quan hệ tình dục với trẻ em thì bị xử phạt bao nhiêu năm tù?,1
+719,Quan hệ tình dục với người dưới 13 tuổi thì bị xử phạt bao nhiêu năm tù?,Quan hệ tình dục với trẻ con thì bị xử phạt bao nhiêu năm tù?,1
+720,Quan hệ tình dục với người dưới 13 tuổi thì bị xử phạt bao nhiêu năm tù?,Quan hệ tình dục với người dưới 13 tuổi thì không bị xử phạt,0
+721,Có được quảng cáo thuốc lá không?,Có được hút thuốc lá không?,0
+722,Có được quảng cáo thuốc lá không?,Có được mua bán thuốc lá không?,0
+723,Có được quảng cáo thuốc lá không?,Có được quảng bá thuốc lá không?,1
+724,Con sinh ra có bắt buộc phải mang họ của cha hay không?,Con đẻ ra có bắt buộc phải mang họ của cha hay không?,1
+725,Con sinh ra có bắt buộc phải mang họ của cha hay không?,Con sinh ra có bắt buộc phải mang họ của ba hay không?,1
+726,Con sinh ra có bắt buộc phải mang họ của cha hay không?,Con sinh ra tự do mang tên của cha,0
+727,Trợ cấp mai táng đối với quân nhân được quy định như thế nào?,Trợ cấp mai táng đối với công an được quy định như thế nào?,0
+728,Trợ cấp mai táng đối với quân nhân được quy định như thế nào?,Trợ cấp mai táng đối với người dân được quy định như thế nào?,0
+729,Trợ cấp mai táng đối với quân nhân được quy định như thế nào?,Trợ cấp an táng đối với quân nhân được quy định như thế nào?,1
+730,Neo đậu tại vùng nước cảng quá 24 giờ không xin phép khi đã hoàn thành thủ tục xuất cảnh bị phạt bao nhiêu tiền?,Neo đậu tại vùng nước cảng quá một ngày không xin phép khi đã hoàn thành thủ tục xuất cảnh bị phạt bao nhiêu tiền?,1
+731,Quy định về tên gọi của tàu bay,Quy định về tên gọi của tàu hỏa,0
+732,Quy định về tên gọi của tàu bay,Quy định về tên gọi của tàu thủy,0
+733,Quy định về tên gọi của tàu bay,Quy định về tên gọi của máy bay,1
+734,Các nguyên tắc thực hiện công tác tàng thư căn cước công dân,Các nguyên tắc thực hiện công tác hủy bỏ căn cước công dân,0
+735,Các nguyên tắc thực hiện công tác tàng thư căn cước công dân,Các quy định thực hiện công tác tàng thư căn cước công dân,1
+736,Các nguyên tắc thực hiện công tác tàng thư căn cước công dân,Các nguyên tắc thực hiện công tác lưu trữ căn cước công dân,1
+737,Các nguyên tắc thực hiện công tác tàng thư căn cước công dân,Các nguyên tắc thực hiện công tác tàng thư chứng minh nhân dân,1
+738,Không đóng dấu khi xuất cảnh bị xử lý thế nào?,Không làm thủ tục khi xuất cảnh bị xử lý thế nào?,1
+739,Người chấp hành xong án phạt tù có những quyền gì?,Người chấp hành xong án phạt tù có những nghĩa vụ gì?,0
+740,Người chấp hành xong án phạt tù có những nghĩa vụ gì?,Người thi hành xong bản án phạt tù có những nghĩa vụ gì?,1
+741,Người chấp hành xong án phạt tù có những quyền gì?,Người trốn án phạt tù có quyền gì?,0
+742,Xây nhà bít hết lối đi của hàng xóm có được không?,Xây nhà chặn hết lối đi của hàng xóm có được không?,1
+743,Xây nhà bít hết lối đi của hàng xóm có được không?,Xây nhà bít hết lối đi của người khác có được không?,1
+744,Xây nhà bít hết lối đi của hàng xóm có được không?,Phá nhà của hàng xóm có được không?,0
+745,Xây nhà bít hết lối đi của hàng xóm có được không?,Phá lối đi của hàng xóm có được không?,0
+746,Rút sổ tiết kiệm ngân hàng của người đã chết không để lại di chúc như thế nào?,Làm sao rút được sổ tiết kiệm 2 tỷ đồng của bà nội đã qua đời?,0
+747,Rút sổ tiết kiệm ngân hàng của người đã chết không để lại di chúc như thế nào?,Rút tố cáo thì có bắt buộc phải lập thành văn bản hay không?,0
+748,Rút sổ tiết kiệm ngân hàng của người đã chết không để lại di chúc như thế nào?,Rút sổ tiết kiệm ngân hàng của người đã mất không để lại di chúc?,1
+749,Ai được quyền khai nhận di sản thừa kế khi không có di chúc?,Người nào được quyền khai nhận di sản thừa kế khi không có di chúc?,1
+750,Ai được quyền khai nhận di sản thừa kế khi không có di chúc?,Ai được quyền khai nhận di sản thừa kế khi không có chúc thư?,1
+751,Ai được quyền khai nhận di sản thừa kế khi không có di chúc?,Hàng xóm được quyền khai nhận di sản thừa kế?,0
+752,Kiểm soát điện thoại của chồng có phạm luật?,Đánh chồng có vi phạm pháp luật?,0
+753,Kiểm soát điện thoại của chồng có phạm luật?,Chiếm giữ điện thoại của chồng có phạm luật?,0
+754,Kiểm soát điện thoại của chồng có phạm luật?,Quản lý điện thoại của chồng có vi phạm luật?,1
+755,Mức phạt vượt đèn đỏ của xe máy hiện nay là bao nhiêu?,Vượt đèn đỏ của xe máy hiện nay bị phạt bao nhiêu?,1
+756,Mức phạt vượt đèn đỏ của xe máy hiện nay là bao nhiêu?,Mức thưởng vượt đèn đỏ của xe máy hiện nay là bao nhiêu?,0
+757,Mức phạt vượt đèn đỏ của xe máy hiện nay là bao nhiêu?,Mức phạt vượt đèn đỏ của xe ô tô hiện nay là bao nhiêu?,0
+758,Mức phạt vượt đèn đỏ của xe máy hiện nay là bao nhiêu?,Mức phạt vượt đèn đỏ của xe đạp hiện nay là bao nhiêu?,0
+759,Những việc Thẩm phán không được làm là việc gì?,Những việc Thẩm phán được làm là việc gì?,0
+760,Những việc Thẩm phán không được làm là việc gì?,Thẩm phán được làm việc gì?,0
+761,Những việc Thẩm phán không được làm là việc gì?,Thẩm phán không được làm gì?,1
+762,Bao nhiêu tuổi mới được kết nạp Đảng?,Độ tuổi kết nạp Đảng?,1
+763,Bao nhiêu tuổi mới được kết nạp Đảng?,Bao nhiêu tuổi không được kết nạp Đảng?,0
+764,Bao nhiêu tuổi mới được kết nạp Đảng?,Bao nhiêu tuổi mới được kết nạp Đoàn?,0
+765,Khi nào được công nhận là Đảng viên chính thức?,Khi nào không được công nhận là Đảng viên?,0
+766,Khi nào được công nhận là Đảng viên chính thức?,Khi nào được công nhận là Đoàn viên chính thức?,0
+767,Khi nào được công nhận là Đảng viên chính thức?,Thời hạn được công nhận là Đảng viên chính thức?,1
+768,Hành vi nói xấu doanh nghiệp bị xử lý như thế nào?,Hành vi nói tốt doanh nghiệp bị xử lý như thế nào?,0
+769,Hành vi nói xấu doanh nghiệp bị xử lý như thế nào?,Nói xấu doanh nghiệp bị xử lý như thế nào?,1
+770,Hành vi nói xấu doanh nghiệp bị xử lý như thế nào?,Việc nói xấu doanh nghiệp bị xử lý thế nào?,1
+771,Đổi giấy phép lái xe cần giấy tờ gì?,Đổi giấy phép lái xe cần hồ sơ gì?,1
+772,Đổi giấy phép lái xe cần giấy tờ gì?,Cấp mới giấy phép lái xe cần giấy tờ gì?,0
+773,Đổi giấy phép lái xe cần giấy tờ gì?,Đổi giấy phép lái máy bay cần giấy tờ gì?,0
+774,Đối tượng chịu sự kiểm tra hải quan là ai?,Hải quan chịu sự kiểm tra của ai?,0
+775,Đối tượng chịu sự kiểm tra hải quan là ai?,Ai chịu sự kiểm tra hải quan?,1
+776,Đối tượng chịu sự kiểm tra hải quan là ai?,Đối tượng chịu sự kiểm tra hải quân là ai?,0
+777,Đối tượng chịu sự kiểm tra hải quan là ai?,Ai kiểm tra đối tượng chịu sự kiểm tra hải quan?,0
+778,Giáo viên mầm non không bắt buộc phải đi dạy hè,Giáo viên mầm non không bắt buộc phải đi dạy học,0
+779,Giáo viên mầm non không bắt buộc phải đi dạy hè,Giáo viên tiểu học không bắt buộc phải đi dạy hè,0
+780,Giáo viên mầm non không bắt buộc phải đi dạy hè,Giáo viên trung học không bắt buộc phải đi dạy hè,0
+781,Giáo viên mầm non không bắt buộc phải đi dạy hè,Giáo viên mầm non có phải đi dạy hè,1
+782,Tham gia giao thông khi thấy đèn vàng,Tham gia giao thông khi thấy đèn đỏ,0
+783,Tham gia giao thông khi thấy đèn vàng,Tham gia giao thông khi thấy đèn xanh,0
+784,Tham gia giao thông khi thấy đèn vàng,Thấy tín hiệu đèn vàng khi tham gia giao thông,1
+785,Giấy khai sinh và một số giấy tờ cá nhân khác có sai sót thì chỉnh sửa như thế nào?,Giấy khai sinh và một số giấy tờ cá nhân khác có sai sót thì hủy bỏ như thế nào?,0
+786,Giấy khai sinh và một số giấy tờ cá nhân khác có sai sót thì chỉnh sửa như thế nào?,Giấy khai sinh và một số giấy tờ cá nhân khác không có sai sót thì chỉnh sửa như thế nào?,0
+787,Giấy khai sinh và một số giấy tờ cá nhân khác có sai sót thì chỉnh sửa như thế nào?,Chỉnh sửa giấy khai sinh và một số giất tờ cá nhân khác khi có sai sót,1
+788,Trường hợp nào không được cấp hộ chiếu?,Trường hợp được cấp hộ chiếu?,0
+789,Trường hợp nào không được cấp hộ chiếu?,Trường hợp được cấp hộ khẩu?,0
+790,Trường hợp nào không được cấp hộ chiếu?,Hộ chiếu được cấp cho ai?,0
+791,Trường hợp nào không được cấp hộ chiếu?,Hộ chiếu được cấp cho trường hợp nào?,1
+792,Cá độ bóng đá qua mạng bị phạt như thế nào?,Cá độ bóng đá qua Internet bị phạt như thế nào?,1
+793,Cá độ bóng đá qua mạng bị phạt như thế nào?,Cá độ qua mạng bị phạt như thế nào?,1
+794,Cá độ bóng đá qua mạng bị phạt như thế nào?,Không cá độ bị phạt thế nào?,0
+795,Lấy lại nhà sau khi vượt biên phải làm thế nào?,Bán nhà sau khi vượt biên?,0
+796,Lấy lại nhà sau khi vượt biên phải làm thế nào?,Sau khi vượt biên cướp nhà như thế nào?,0
+797,Lấy lại nhà sau khi vượt biên phải làm thế nào?,Nhận lại nhà sau khi vượt biên,1
+798,Bác ruột làm giám hộ cho cháu phải có những điều kiện gì?,Điều kiện làm người giám hộ,1
+799,Thời gian tạm giữ xe khi vi phạm vượt quá nồng độ cồn,Khi lái xe vi phạm vượt quá nồng độ cồn thì bị tạm giữ xe trong bao lâu?,1
+800,"Ai có thẩm quyền phê duyệt phương án phòng cháy, chữa cháy?","Người nào có thẩm quyền phê duyệt phương án phòng cháy, chữa cháy",1
